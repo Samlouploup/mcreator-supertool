@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Parfait.boots"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Parfait.boots"
+      },
+      {
+        "value": "CUSTOM:Parfait.boots"
+      },
+      {
+        "value": "CUSTOM:SuperStar"
+      },
+      {
+        "value": "CUSTOM:Parfait.boots"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Divin.boots"
+    },
+    "name": "divin_bottes",
+    "namespace": "mod"
+  }
+}

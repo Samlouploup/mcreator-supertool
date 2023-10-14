@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "antiargile",
+    "customModelName": "Normal",
+    "name": "Antiargile",
+    "specialInfo": [
+      "Ne casse que  l'argile. Atention très rapide !"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 60.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 0,
+    "blocksAffected": [
+      {
+        "value": "Blocks.CLAY"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

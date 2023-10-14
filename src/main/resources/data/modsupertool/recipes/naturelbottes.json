@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:terre_boots"
+    },
+    "2": {
+      "item": "modsupertool:terre_boots"
+    },
+    "3": {
+      "item": "modsupertool:terre_boots"
+    },
+    "4": {
+      "item": "modsupertool:bois_beni"
+    },
+    "5": {
+      "item": "modsupertool:terre_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:naturel_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:scute"
+    },
+    "1": {
+      "item": "minecraft:scute"
+    },
+    "2": {
+      "item": "minecraft:scute"
+    },
+    "3": {
+      "item": "minecraft:scute"
+    },
+    "4": {
+      "item": "minecraft:conduit"
+    },
+    "5": {
+      "item": "minecraft:scute"
+    },
+    "6": {
+      "item": "minecraft:scute"
+    },
+    "7": {
+      "item": "minecraft:scute"
+    },
+    "8": {
+      "item": "minecraft:scute"
+    }
+  },
+  "result": {
+    "item": "modsupertool:super_ecaille",
+    "count": 1
+  }
+}

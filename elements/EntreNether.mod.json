@@ -1,0 +1,120 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_temple_du_feu",
+          "text": "Temple du Feu",
+          "onClick": {
+            "name": "Templedufeuguiouverture"
+          },
+          "width": 92,
+          "height": 20,
+          "x": 131,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_flamme_parfaite",
+          "text": "flamme parfaite",
+          "onClick": {
+            "name": "FlammeParfaiteouverture"
+          },
+          "width": 103,
+          "height": 20,
+          "x": 131,
+          "y": 104
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_originedunether",
+          "text": "Origine Du Nether",
+          "onClick": {
+            "name": "OuvrirOriginesnether"
+          },
+          "width": 103,
+          "height": 20,
+          "x": 131,
+          "y": 49
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<----",
+          "onClick": {
+            "name": "LeCodexEvenementAuClicDroitDansLair"
+          },
+          "width": 51,
+          "height": 20,
+          "x": 241,
+          "y": 48
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty1",
+          "text": "<-",
+          "onClick": {
+            "name": "OuvrirAutres"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 258,
+          "y": 73
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_armure_du_maitre_du_nether",
+          "text": "Armure du maître du nether",
+          "onClick": {
+            "name": "ArmureMuMaitreDuNetherguiouverture"
+          },
+          "width": 160,
+          "height": 20,
+          "x": 130,
+          "y": 127
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_armure_de_lend",
+          "text": "armure de l'end",
+          "onClick": {
+            "name": "ArumreDeLendRecette"
+          },
+          "width": 103,
+          "height": 20,
+          "x": 131,
+          "y": 154
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

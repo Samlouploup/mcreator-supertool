@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SuperPlanches"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.legs"
+      },
+      {
+        "value": "CUSTOM:SuperPlanches"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.legs"
+      },
+      {
+        "value": "CUSTOM:Superpierre"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.legs"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.legs"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.legs"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Builder.legs"
+    },
+    "name": "jambiere_de_builder_recette",
+    "namespace": "mod"
+  }
+}

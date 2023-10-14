@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:epee_en_super_fer"
+    },
+    "1": {
+      "item": "modsupertool:epee_en_super_fer"
+    },
+    "2": {
+      "item": "modsupertool:earthenergie"
+    }
+  },
+  "result": {
+    "item": "modsupertool:epee_en_earthenergie",
+    "count": 1
+  }
+}

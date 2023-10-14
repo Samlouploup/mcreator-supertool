@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:shulker_box"
+    },
+    "1": {
+      "item": "minecraft:white_shulker_box"
+    },
+    "2": {
+      "item": "minecraft:shulker_box"
+    },
+    "3": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "4": {
+      "item": "minecraft:dragon_egg"
+    },
+    "5": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "6": {
+      "item": "modsupertool:conducteur_armor_boots"
+    },
+    "7": {
+      "item": "minecraft:dragon_head"
+    },
+    "8": {
+      "item": "modsupertool:conducteur_armor_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:ender_boots",
+    "count": 1
+  }
+}

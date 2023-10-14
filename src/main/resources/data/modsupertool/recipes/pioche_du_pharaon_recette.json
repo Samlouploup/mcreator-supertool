@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:pioche_en_earthenergie"
+    },
+    "1": {
+      "item": "modsupertool:pharaonb"
+    },
+    "2": {
+      "item": "modsupertool:pioche_en_earthenergie"
+    },
+    "4": {
+      "item": "minecraft:gold_block"
+    },
+    "7": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pioche_du_pharaon",
+    "count": 1
+  }
+}

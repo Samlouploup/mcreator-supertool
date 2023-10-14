@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "CUSTOM:Superpierre"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "Items.STONE_SHOVEL"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "Items.STONE_SHOVEL"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Antigraviere"
+    },
+    "name": "antigraviererecette",
+    "namespace": "mod"
+  }
+}

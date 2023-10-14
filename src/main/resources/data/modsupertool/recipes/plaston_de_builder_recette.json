@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_planches"
+    },
+    "1": {
+      "item": "modsupertool:superpierre"
+    },
+    "2": {
+      "item": "modsupertool:super_planches"
+    },
+    "3": {
+      "item": "modsupertool:conducteur_armor_chestplate"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "modsupertool:conducteur_armor_chestplate"
+    },
+    "6": {
+      "item": "modsupertool:conducteur_armor_chestplate"
+    },
+    "7": {
+      "item": "modsupertool:conducteur_armor_chestplate"
+    },
+    "8": {
+      "item": "modsupertool:conducteur_armor_chestplate"
+    }
+  },
+  "result": {
+    "item": "modsupertool:builder_chestplate",
+    "count": 1
+  }
+}

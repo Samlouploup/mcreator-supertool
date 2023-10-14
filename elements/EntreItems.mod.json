@@ -1,0 +1,92 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_flamme_magique",
+          "text": "flamme magique",
+          "onClick": {
+            "name": "FlammeMagiqueguiouverture"
+          },
+          "width": 98,
+          "height": 20,
+          "x": 136,
+          "y": 48
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_ame_monde",
+          "text": "ame monde",
+          "onClick": {
+            "name": "AmeMondeGuiOuverture"
+          },
+          "width": 72,
+          "height": 20,
+          "x": 136,
+          "y": 75
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<----",
+          "onClick": {
+            "name": "LeCodexEvenementAuClicDroitDansLair"
+          },
+          "width": 51,
+          "height": 20,
+          "x": 242,
+          "y": 48
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty1",
+          "text": "<-",
+          "onClick": {
+            "name": "OuvrirAutres"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 257,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_oeil_du_wither_fou",
+          "text": "œil du wither fou",
+          "onClick": {
+            "name": "OeilDuWitherFouGuiOuverture"
+          },
+          "width": 113,
+          "height": 20,
+          "x": 135,
+          "y": 102
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

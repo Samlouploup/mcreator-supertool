@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:automate_boots"
+    },
+    "2": {
+      "item": "modsupertool:automate_boots"
+    },
+    "3": {
+      "item": "modsupertool:plaque_de_samourai"
+    },
+    "5": {
+      "item": "modsupertool:plaque_de_samourai"
+    }
+  },
+  "result": {
+    "item": "modsupertool:samourai_boots",
+    "count": 1
+  }
+}

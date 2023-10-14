@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Earthernergie.legs"
+      },
+      {
+        "value": "CUSTOM:Earthernergie.legs"
+      },
+      {
+        "value": "CUSTOM:Earthernergie.legs"
+      },
+      {
+        "value": "CUSTOM:Earthernergie.legs"
+      },
+      {
+        "value": "CUSTOM:Pharaonb"
+      },
+      {
+        "value": "CUSTOM:Earthernergie.legs"
+      },
+      {
+        "value": "CUSTOM:Earthernergie.legs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Earthernergie.legs"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pharaon.legs"
+    },
+    "name": "pharaonjambiere",
+    "namespace": "mod"
+  }
+}

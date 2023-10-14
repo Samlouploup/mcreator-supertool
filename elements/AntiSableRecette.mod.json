@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Items.GOLDEN_SHOVEL"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Items.GOLDEN_SHOVEL"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Blocks.SAND"
+      },
+      {
+        "value": "Items.GOLDEN_SHOVEL"
+      },
+      {
+        "value": "Blocks.SAND"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Antisable"
+    },
+    "name": "anti_sable_recette",
+    "namespace": "mod"
+  }
+}

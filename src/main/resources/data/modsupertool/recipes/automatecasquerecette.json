@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:naturel_helmet"
+    },
+    "1": {
+      "item": "modsupertool:naturel_helmet"
+    },
+    "2": {
+      "item": "modsupertool:naturel_helmet"
+    },
+    "3": {
+      "item": "modsupertool:naturel_helmet"
+    },
+    "4": {
+      "item": "modsupertool:coeurdotomate"
+    },
+    "5": {
+      "item": "modsupertool:naturel_helmet"
+    }
+  },
+  "result": {
+    "item": "modsupertool:automate_helmet",
+    "count": 1
+  }
+}

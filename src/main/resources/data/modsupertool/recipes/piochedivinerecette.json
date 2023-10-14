@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:beacon"
+    },
+    "1": {
+      "item": "modsupertool:super_star"
+    },
+    "2": {
+      "item": "minecraft:beacon"
+    },
+    "3": {
+      "item": "modsupertool:ame_monde"
+    },
+    "4": {
+      "item": "modsupertool:pioche_parfaite"
+    },
+    "5": {
+      "item": "modsupertool:ame_monde"
+    },
+    "7": {
+      "item": "modsupertool:pioche_parfaite"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pioche_divine",
+    "count": 1
+  }
+}

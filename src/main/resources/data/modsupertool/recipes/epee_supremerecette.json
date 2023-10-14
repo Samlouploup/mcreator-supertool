@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:epee_du_pharaon"
+    },
+    "1": {
+      "item": "modsupertool:epee_du_pharaon"
+    },
+    "2": {
+      "item": "modsupertool:supremeb"
+    }
+  },
+  "result": {
+    "item": "modsupertool:epee_parfaite",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/supreme",
+    "up": "modsupertool:blocks/supreme",
+    "north": "modsupertool:blocks/supreme",
+    "east": "modsupertool:blocks/supreme",
+    "south": "modsupertool:blocks/supreme",
+    "west": "modsupertool:blocks/supreme",
+    "particle": "modsupertool:blocks/supreme"
+  },
+  "render_type": "solid"
+}

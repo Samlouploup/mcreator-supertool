@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Superfer.legs"
+      },
+      {
+        "value": "CUSTOM:Superfer.legs"
+      },
+      {
+        "value": "CUSTOM:Superfer.legs"
+      },
+      {
+        "value": "CUSTOM:Superfer.legs"
+      },
+      {
+        "value": "CUSTOM:Earthenergie"
+      },
+      {
+        "value": "CUSTOM:Superfer.legs"
+      },
+      {
+        "value": "CUSTOM:Superfer.legs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Superfer.legs"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Earthernergie.legs"
+    },
+    "name": "earthenergieleggins",
+    "namespace": "mod"
+  }
+}

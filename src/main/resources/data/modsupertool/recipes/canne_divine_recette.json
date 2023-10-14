@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "2": {
+      "item": "modsupertool:super_star"
+    },
+    "4": {
+      "item": "modsupertool:canneparfaite"
+    },
+    "5": {
+      "item": "minecraft:beacon"
+    },
+    "6": {
+      "item": "modsupertool:canneparfaite"
+    },
+    "8": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "modsupertool:canne_divine",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "1": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "2": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "3": {
+      "item": "modsupertool:super_planches"
+    },
+    "4": {
+      "tag": "forge:stone"
+    },
+    "5": {
+      "item": "modsupertool:super_planches"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "modsupertool:builder_helmet",
+    "count": 1
+  }
+}

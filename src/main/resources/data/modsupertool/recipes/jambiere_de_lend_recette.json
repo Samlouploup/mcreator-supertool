@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "1": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "2": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "3": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "4": {
+      "item": "minecraft:dragon_egg"
+    },
+    "5": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "6": {
+      "item": "minecraft:shulker_box"
+    },
+    "7": {
+      "item": "minecraft:sugar"
+    },
+    "8": {
+      "item": "minecraft:shulker_box"
+    }
+  },
+  "result": {
+    "item": "modsupertool:ender_leggings",
+    "count": 1
+  }
+}

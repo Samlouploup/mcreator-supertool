@@ -1,0 +1,33 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "terrepioche",
+    "customModelName": "Normal",
+    "name": "Pioche En Terre",
+    "specialInfo": [
+      "breaking power:0",
+      "donne fatique de minage"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 0.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "PiocheEnTerreToolInHandTick"
+    }
+  }
+}

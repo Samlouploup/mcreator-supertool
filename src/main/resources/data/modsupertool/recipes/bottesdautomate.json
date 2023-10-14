@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:naturel_boots"
+    },
+    "2": {
+      "item": "modsupertool:naturel_boots"
+    },
+    "3": {
+      "item": "modsupertool:naturel_boots"
+    },
+    "4": {
+      "item": "modsupertool:coeurdotomate"
+    },
+    "5": {
+      "item": "modsupertool:naturel_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:automate_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pharaon",
+    "customModelName": "Normal",
+    "name": "Pioche Du Pharaon",
+    "specialInfo": [
+      "breaking power:3",
+      "enchanté",
+      "donne célérité 2",
+      "mine en 3X3 si vous n'êtes pas accroupi",
+      "donne vision nocturne"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 3,
+    "efficiency": 13.0,
+    "attackSpeed": 2.0,
+    "enchantability": 10,
+    "damageVsEntity": 8.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "PiocheDuPharaonQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "PiocheDuPharaonToolInHandTick"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "PiocheEnFerQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

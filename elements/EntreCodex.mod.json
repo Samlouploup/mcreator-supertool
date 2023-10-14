@@ -1,0 +1,92 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_autres",
+          "text": "autres",
+          "onClick": {
+            "name": "OuvrirAutres"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 236,
+          "y": 145
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_materiaux",
+          "text": "matériaux",
+          "onClick": {
+            "name": "MateraiuxOuverture"
+          },
+          "width": 72,
+          "height": 20,
+          "x": 156,
+          "y": 112
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_presentaion_du_codex",
+          "text": "Présentation du Codex",
+          "onClick": {
+            "name": "Presentationducodexouverture"
+          },
+          "width": 129,
+          "height": 20,
+          "x": 132,
+          "y": 48
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_superutilities",
+          "text": "SuperUtilities",
+          "onClick": {
+            "name": "SuperUtilitiesOuverture"
+          },
+          "width": 98,
+          "height": 20,
+          "x": 130,
+          "y": 145
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_magie_de_compactage",
+          "text": "Magie De Compactage",
+          "onClick": {
+            "name": "MagieDeCompactageOuverture"
+          },
+          "width": 124,
+          "height": 20,
+          "x": 132,
+          "y": 80
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

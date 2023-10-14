@@ -1,0 +1,32 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "canneertheneegie",
+    "customModelName": "Normal",
+    "name": "Canne A Peche En Earthenegie",
+    "specialInfo": [
+      "donne chance 2"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Fishing rod",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 6,
+    "damageVsEntity": 4.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "CanneEnEarthenergieLorsqueLoutilEstDansLaMain"
+    }
+  }
+}

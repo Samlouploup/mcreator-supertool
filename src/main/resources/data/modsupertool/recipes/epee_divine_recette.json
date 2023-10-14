@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:epee_parfaitee"
+    },
+    "1": {
+      "item": "modsupertool:epee_parfaitee"
+    },
+    "2": {
+      "item": "modsupertool:super_star"
+    }
+  },
+  "result": {
+    "item": "modsupertool:epee_divine",
+    "count": 1
+  }
+}

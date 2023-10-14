@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:terre_helmet"
+    },
+    "1": {
+      "item": "modsupertool:epee_en_terre"
+    },
+    "2": {
+      "item": "modsupertool:terre_chestplate"
+    },
+    "3": {
+      "item": "modsupertool:super_planches"
+    },
+    "4": {
+      "item": "modsupertool:antiterre"
+    },
+    "5": {
+      "item": "modsupertool:super_planches"
+    },
+    "6": {
+      "item": "modsupertool:terre_leggings"
+    },
+    "7": {
+      "item": "modsupertool:pioche_en_terre"
+    },
+    "8": {
+      "item": "modsupertool:terre_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:antiterree",
+    "count": 1
+  }
+}

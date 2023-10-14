@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/earthenergie",
+    "up": "modsupertool:blocks/earthenergie",
+    "north": "modsupertool:blocks/earthenergie",
+    "east": "modsupertool:blocks/earthenergie",
+    "south": "modsupertool:blocks/earthenergie",
+    "west": "modsupertool:blocks/earthenergie",
+    "particle": "modsupertool:blocks/earthenergie"
+  },
+  "render_type": "solid"
+}

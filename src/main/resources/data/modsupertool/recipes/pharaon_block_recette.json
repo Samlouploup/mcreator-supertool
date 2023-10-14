@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:superor"
+    },
+    "1": {
+      "item": "modsupertool:super_lapis"
+    },
+    "2": {
+      "item": "modsupertool:superor"
+    },
+    "3": {
+      "item": "modsupertool:super_lapis"
+    },
+    "4": {
+      "item": "modsupertool:baton_du_pharaon"
+    },
+    "5": {
+      "item": "modsupertool:super_lapis"
+    },
+    "6": {
+      "item": "modsupertool:superor"
+    },
+    "7": {
+      "item": "modsupertool:super_lapis"
+    },
+    "8": {
+      "item": "modsupertool:superor"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pharaonb",
+    "count": 1
+  }
+}

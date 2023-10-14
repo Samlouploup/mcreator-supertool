@@ -1,0 +1,86 @@
+{
+  "_fv": 43,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "build_head",
+    "enableBody": true,
+    "textureBody": "build_body",
+    "enableLeggings": true,
+    "textureLeggings": "build_leggings",
+    "enableBoots": true,
+    "textureBoots": "build_boots",
+    "onHelmetTick": {
+      "name": "BuilderEvenementDeTickDuCasque"
+    },
+    "onBodyTick": {
+      "name": "BuilderEvenementDeTickDuPlastron"
+    },
+    "onLeggingsTick": {
+      "name": "BuilderEvenementDeTickDesJambieres"
+    },
+    "onBootsTick": {
+      "name": "BuilderEvenementDeTickDesBottes"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "armorTextureFile": "build",
+    "helmetName": "Casque de Builder",
+    "bodyName": "Plastron de Builder",
+    "leggingsName": "Jambières de Builder",
+    "bootsName": "Bottes de Builder",
+    "helmetSpecialInfo": [
+      "permet de voler mais empeche de frapper"
+    ],
+    "bodySpecialInfo": [
+      "immunise au dégats mais empeche de frapper"
+    ],
+    "leggingsSpecialInfo": [
+      "permet au pioche en netherite d'être incassable mais empeche de frapper"
+    ],
+    "bootsSpecialInfo": [
+      "donne vitesse 2 mais empeche de frapper"
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 0,
+    "damageValueHelmet": 0,
+    "damageValueBody": 0,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 0,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

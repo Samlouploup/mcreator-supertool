@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "blazepoudreboum",
+    "customModelName": "Normal",
+    "name": "Super Poudre De Blaze",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:ItemsDiversSuperTools"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Chaud",
+      "mais mangeable!"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "SuperPoudreDeBlazePlayerFinishesUsingItem"
+    },
+    "isFood": true,
+    "nutritionalValue": 3,
+    "saturation": 2.5,
+    "eatResultItem": {
+      "value": "Items.BLAZE_POWDER"
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

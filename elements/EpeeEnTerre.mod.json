@@ -1,0 +1,35 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "epeenterre",
+    "customModelName": "Normal",
+    "name": "Epee En Terre",
+    "specialInfo": [
+      "donne cécité"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 0.0,
+    "attackSpeed": 0.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "EpeeEnTerreRightclicked"
+    },
+    "onItemInUseTick": {
+      "name": "EpeeEnTerreToolInHandTick"
+    }
+  }
+}

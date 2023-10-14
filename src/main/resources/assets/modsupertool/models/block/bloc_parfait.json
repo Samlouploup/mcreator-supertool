@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/parfait2",
+    "up": "modsupertool:blocks/parfait2",
+    "north": "modsupertool:blocks/parfait2",
+    "east": "modsupertool:blocks/parfait2",
+    "south": "modsupertool:blocks/parfait2",
+    "west": "modsupertool:blocks/parfait2",
+    "particle": "modsupertool:blocks/parfait2"
+  },
+  "render_type": "solid"
+}

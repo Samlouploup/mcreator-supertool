@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "1": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "2": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "3": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "4": {
+      "item": "minecraft:dragon_egg"
+    },
+    "5": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "6": {
+      "item": "minecraft:shulker_box"
+    },
+    "7": {
+      "item": "minecraft:elytra"
+    },
+    "8": {
+      "item": "minecraft:shulker_box"
+    }
+  },
+  "result": {
+    "item": "modsupertool:ender_helmet",
+    "count": 1
+  }
+}

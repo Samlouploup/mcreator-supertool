@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:pierre_leggings"
+    },
+    "1": {
+      "item": "modsupertool:pierre_leggings"
+    },
+    "2": {
+      "item": "modsupertool:pierre_leggings"
+    },
+    "3": {
+      "item": "modsupertool:pierre_leggings"
+    },
+    "4": {
+      "item": "modsupertool:super_fer_b"
+    },
+    "5": {
+      "item": "modsupertool:pierre_leggings"
+    },
+    "6": {
+      "item": "modsupertool:pierre_leggings"
+    },
+    "8": {
+      "item": "modsupertool:pierre_leggings"
+    }
+  },
+  "result": {
+    "item": "modsupertool:superfer_leggings",
+    "count": 1
+  }
+}

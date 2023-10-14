@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:cisailles_a_ecaille"
+    },
+    "1": {
+      "item": "modsupertool:ventre_de_tortue"
+    }
+  },
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 16
+  }
+}

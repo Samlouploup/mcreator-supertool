@@ -1,0 +1,120 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 191,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_earthenegie",
+          "text": "Earthenegie",
+          "onClick": {
+            "name": "EarthenergieGuiOuverture"
+          },
+          "width": 82,
+          "height": 20,
+          "x": 130,
+          "y": 34
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_pharaon",
+          "text": "Pharaon",
+          "onClick": {
+            "name": "PharaonGuiOuverture"
+          },
+          "width": 61,
+          "height": 20,
+          "x": 131,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_supreme",
+          "text": "Supreme",
+          "onClick": {
+            "name": "SupremeGuiOuverture"
+          },
+          "width": 61,
+          "height": 20,
+          "x": 131,
+          "y": 86
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_parfait",
+          "text": "Parfait",
+          "onClick": {
+            "name": "ParfaitGuiOuverture"
+          },
+          "width": 61,
+          "height": 20,
+          "x": 131,
+          "y": 113
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_naturel",
+          "text": "Naturel",
+          "onClick": {
+            "name": "NaturelGuiOuverture"
+          },
+          "width": 61,
+          "height": 20,
+          "x": 228,
+          "y": 34
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_conducteur",
+          "text": "Conducteur",
+          "onClick": {
+            "name": "ConducteurGuiOuverture"
+          },
+          "width": 77,
+          "height": 20,
+          "x": 217,
+          "y": 61
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "LeCodexEvenementAuClicDroitDansLair"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 253,
+          "y": 186
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

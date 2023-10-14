@@ -1,0 +1,96 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 441,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_perles_parfaites_contienenen",
+          "text": {
+            "fixedValue": "Les Perles Parfaites contiennent toutes les énergies différentes, gravitant"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 43
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_autour_dune_flamme_parfait_et_s",
+          "text": {
+            "fixedValue": "autour d'une flamme parfaite et solidifiées avec du souffle du dragon. Ces perles"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 2,
+          "y": 54
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sont_cependant_trop_instable_pou",
+          "text": {
+            "fixedValue": "sont cependant trop instables pour être insérées telles quelles dans une armure.Il"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": -1,
+          "y": 69
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_faut_dabord_les_stabiliser_a_l",
+          "text": {
+            "fixedValue": "faut d'abord les stabiliser à l'aide de netherite compacté."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 4,
+          "y": 83
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "MateraiuxOuverture"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 383,
+          "y": 173
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

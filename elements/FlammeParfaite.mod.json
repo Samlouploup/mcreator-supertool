@@ -1,0 +1,66 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 414,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_flammes_parfaites_sont_des_f",
+          "text": {
+            "fixedValue": "Les flammes parfaites sont des flammes éternelles, créées par le dieu du feu "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 11,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pour_etre_le_coeur_de_ses_sanctua",
+          "text": {
+            "fixedValue": "pour être le cœur de ses sanctuaires."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 11,
+          "y": 58
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "OuvrirNether"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 375,
+          "y": 170
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "CUSTOM:AmeMonde"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:BoisBeni"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Items.GLASS_BOTTLE"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BouteilleMonde"
+    },
+    "name": "bouteille_monde_recette",
+    "namespace": "mod"
+  }
+}

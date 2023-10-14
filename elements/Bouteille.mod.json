@@ -1,0 +1,106 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 320,
+    "height": 179,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_bottes",
+          "text": "bottes",
+          "onClick": {
+            "name": "Bottes"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 186,
+          "y": 167
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_jambiere",
+          "text": "jambière",
+          "onClick": {
+            "name": "Jambe"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 181,
+          "y": 139
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_plastron",
+          "text": "     plastron      ",
+          "onClick": {
+            "name": "Plastron"
+          },
+          "width": 122,
+          "height": 20,
+          "x": 158,
+          "y": 113
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_casque",
+          "text": "     casque          ",
+          "onClick": {
+            "name": "Casque"
+          },
+          "width": 251,
+          "height": 20,
+          "x": 99,
+          "y": 87
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_terre_1024",
+          "text": "terre (1024)",
+          "onClick": {
+            "name": "Terre1024"
+          },
+          "width": 87,
+          "height": 20,
+          "x": 67,
+          "y": 159
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_terre_2048",
+          "text": "terre (2048)",
+          "onClick": {
+            "name": "Terre2048"
+          },
+          "width": 87,
+          "height": 20,
+          "x": 269,
+          "y": 160
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

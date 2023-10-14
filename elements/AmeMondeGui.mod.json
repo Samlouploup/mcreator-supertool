@@ -1,0 +1,51 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 449,
+    "height": 120,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_ames_mondes_sont_des_demisa",
+          "text": {
+            "fixedValue": "Les Ames Mondes sont des Demis-Anges envoyés pour redonner des forces au monde."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 8,
+          "y": 65
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "Itemsguiouvertures"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 377,
+          "y": 151
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

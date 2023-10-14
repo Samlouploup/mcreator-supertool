@@ -1,0 +1,81 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 424,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_le_bloc_supreme_est_un_tel_conce",
+          "text": {
+            "fixedValue": "Le bloc supreme est un tel concentré de diamant qu'il forme un blindage presque"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_indestructible_pouvant_octroyer",
+          "text": {
+            "fixedValue": "indestructible pouvant octroyer une force, une résistance, une vitesse et une"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 4,
+          "y": 56
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_accuite_visuel_fortement_augmen",
+          "text": {
+            "fixedValue": "acuité visuelle fortement augmentées."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 68
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "MateraiuxOuverture"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 382,
+          "y": 177
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

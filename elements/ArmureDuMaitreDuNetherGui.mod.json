@@ -1,0 +1,246 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 424,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_alors_que_les_trois_clans_etaien",
+          "text": {
+            "fixedValue": "Alors que les trois clans étaient en guerre, le dieu du feu les réunit et leurs"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 8,
+          "y": 41
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dit_fabriquez_ensemble_une_a",
+          "text": {
+            "fixedValue": "dit:« fabriquez ensemble une armure, immunisant entièrement le"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 56
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_porteur_au_nether",
+          "text": {
+            "fixedValue": "porteur au Nether"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 334,
+          "y": 56
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_puis_donnez_la_a_un_elu_pour_qu",
+          "text": {
+            "fixedValue": "puis donnez la à un élu pour qu’il rétablisse la paix »."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_trois_clans_se_mirent_aussitot_a",
+          "text": {
+            "fixedValue": "Les trois clans se mirent aussitôt au travail."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_berserks_fabriquerent_larmu",
+          "text": {
+            "fixedValue": "Les Berserks fabriquèrent l’armure et l’infusèrent"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_de_leurs_energie_pour_donner_au",
+          "text": {
+            "fixedValue": "de leur énergie pour donner"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 272,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_au_porteur_une_force_et_une_vite",
+          "text": {
+            "fixedValue": "au porteur une force et une vitesse de minage surhumaine"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 110
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dans_le_nether_les",
+          "text": {
+            "fixedValue": "dans le Nether, les"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 310,
+          "y": 111
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_mages_lenchanterent_pour_suppri",
+          "text": {
+            "fixedValue": "Mages l’enchantèrent pour supprimer les effets du sable des âmes"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 124
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_et_permettre_au_porteur",
+          "text": {
+            "fixedValue": "et permettre"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 348,
+          "y": 123
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_au_porteur_de_voler_dans_le_neth",
+          "text": {
+            "fixedValue": "au porteur de voler dans le Nether et les"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 135
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_elementaux_diffuserent_leurs_ma",
+          "text": {
+            "fixedValue": " élémentaux diffusèrent leur magie"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 135
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pour_immuniser_le_porteur_de_ce",
+          "text": {
+            "fixedValue": " pour immuniser le porteur de cette armure au feu."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 147
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "OuvrirNether"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 378,
+          "y": 173
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

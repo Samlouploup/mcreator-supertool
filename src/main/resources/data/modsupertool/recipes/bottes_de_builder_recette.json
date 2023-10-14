@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_planches"
+    },
+    "1": {
+      "tag": "forge:stone"
+    },
+    "2": {
+      "item": "modsupertool:super_planches"
+    },
+    "3": {
+      "item": "modsupertool:conducteur_armor_boots"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "modsupertool:conducteur_armor_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:builder_boots",
+    "count": 1
+  }
+}

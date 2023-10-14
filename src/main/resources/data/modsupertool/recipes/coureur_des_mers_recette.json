@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:scute"
+    },
+    "1": {
+      "item": "minecraft:scute"
+    },
+    "2": {
+      "item": "minecraft:scute"
+    },
+    "3": {
+      "item": "modsupertool:roi_des_mers_boots"
+    },
+    "4": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "5": {
+      "item": "modsupertool:roi_des_mers_boots"
+    },
+    "6": {
+      "item": "minecraft:sugar"
+    },
+    "7": {
+      "item": "minecraft:sugar"
+    },
+    "8": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "modsupertool:coureur_des_mers_boots",
+    "count": 1
+  }
+}

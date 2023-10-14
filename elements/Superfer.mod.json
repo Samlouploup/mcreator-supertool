@@ -1,0 +1,90 @@
+{
+  "_fv": 43,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "fer_head",
+    "enableBody": true,
+    "textureBody": "fer_body",
+    "enableLeggings": true,
+    "textureLeggings": "fer_leggings",
+    "enableBoots": true,
+    "textureBoots": "fer_boots",
+    "onHelmetTick": {
+      "name": "SuperferHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "SuperferHelmetTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "SuperferHelmetTickEvent"
+    },
+    "onBootsTick": {
+      "name": "SuperferHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "armorTextureFile": "fer",
+    "helmetName": "Casque en Super fer",
+    "bodyName": "plastron en Super fer",
+    "leggingsName": "jambiere en Super fer",
+    "bootsName": "bottes en Super fer",
+    "helmetSpecialInfo": [
+      "donne resistance 1"
+    ],
+    "bodySpecialInfo": [
+      "donne resistance 1"
+    ],
+    "leggingsSpecialInfo": [
+      "donne resistance 1"
+    ],
+    "bootsSpecialInfo": [
+      "donne resistance 1"
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 0,
+    "damageValueHelmet": 4,
+    "damageValueBody": 5,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 4,
+    "enchantability": 4,
+    "toughness": 0.5,
+    "knockbackResistance": 0.3,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      }
+    ]
+  }
+}

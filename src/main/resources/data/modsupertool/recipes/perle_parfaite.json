@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:beacon"
+    },
+    "1": {
+      "item": "modsupertool:super_lapis"
+    },
+    "2": {
+      "item": "minecraft:dragon_breath"
+    },
+    "3": {
+      "item": "modsupertool:super_diamant"
+    },
+    "4": {
+      "item": "modsupertool:flame_parfaite"
+    },
+    "5": {
+      "item": "modsupertool:superemeraude"
+    },
+    "6": {
+      "item": "minecraft:dragon_head"
+    },
+    "7": {
+      "item": "modsupertool:superredstone"
+    },
+    "8": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "modsupertool:perle_pafaite",
+    "count": 1
+  }
+}

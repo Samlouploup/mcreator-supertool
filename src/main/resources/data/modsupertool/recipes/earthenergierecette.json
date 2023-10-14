@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:superredstone"
+    },
+    "1": {
+      "item": "modsupertool:superemeraude"
+    },
+    "2": {
+      "item": "modsupertool:superredstone"
+    },
+    "3": {
+      "item": "modsupertool:superemeraude"
+    },
+    "4": {
+      "item": "modsupertool:superredstone"
+    },
+    "5": {
+      "item": "modsupertool:superemeraude"
+    },
+    "6": {
+      "item": "modsupertool:superredstone"
+    },
+    "7": {
+      "item": "modsupertool:superemeraude"
+    },
+    "8": {
+      "item": "modsupertool:superredstone"
+    }
+  },
+  "result": {
+    "item": "modsupertool:earthenergie",
+    "count": 1
+  }
+}

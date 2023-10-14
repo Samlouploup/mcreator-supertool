@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_poudre_de_blaze"
+    },
+    "1": {
+      "item": "modsupertool:super_poudre_de_blaze"
+    },
+    "2": {
+      "item": "modsupertool:epee_en_super_bois"
+    }
+  },
+  "result": {
+    "item": "modsupertool:epee_du_nether",
+    "count": 1
+  }
+}

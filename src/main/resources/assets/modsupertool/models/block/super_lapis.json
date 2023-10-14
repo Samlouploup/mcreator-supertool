@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/lapis",
+    "up": "modsupertool:blocks/lapis",
+    "north": "modsupertool:blocks/lapis",
+    "east": "modsupertool:blocks/lapis",
+    "south": "modsupertool:blocks/lapis",
+    "west": "modsupertool:blocks/lapis",
+    "particle": "modsupertool:blocks/lapis"
+  },
+  "render_type": "solid"
+}

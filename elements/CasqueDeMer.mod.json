@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ConducteurArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:SuperEcaille"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.helmet"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RoiDesMers.helmet"
+    },
+    "name": "casque_de_mer",
+    "namespace": "mod"
+  }
+}

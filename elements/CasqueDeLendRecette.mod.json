@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SuperOeilDeLend"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.helmet"
+      },
+      {
+        "value": "CUSTOM:SuperOeilDeLend"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.helmet"
+      },
+      {
+        "value": "Blocks.DRAGON_EGG"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.helmet"
+      },
+      {
+        "value": "Blocks.SHULKER_BOX"
+      },
+      {
+        "value": "Items.ELYTRA"
+      },
+      {
+        "value": "Blocks.SHULKER_BOX"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Ender.helmet"
+    },
+    "name": "casque_de_lend_recette",
+    "namespace": "mod"
+  }
+}

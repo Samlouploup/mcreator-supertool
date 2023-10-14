@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_planches"
+    },
+    "1": {
+      "item": "modsupertool:super_planches"
+    },
+    "2": {
+      "item": "modsupertool:super_planches"
+    },
+    "3": {
+      "item": "modsupertool:super_planches"
+    }
+  },
+  "result": {
+    "item": "modsupertool:super_bois",
+    "count": 1
+  }
+}

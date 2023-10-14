@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:parfait_chestplate"
+    },
+    "1": {
+      "item": "modsupertool:super_star"
+    },
+    "2": {
+      "item": "modsupertool:parfait_chestplate"
+    },
+    "3": {
+      "item": "modsupertool:parfait_chestplate"
+    },
+    "4": {
+      "item": "modsupertool:parfait_chestplate"
+    },
+    "5": {
+      "item": "modsupertool:parfait_chestplate"
+    },
+    "6": {
+      "item": "modsupertool:parfait_chestplate"
+    },
+    "7": {
+      "item": "modsupertool:parfait_chestplate"
+    },
+    "8": {
+      "item": "modsupertool:parfait_chestplate"
+    }
+  },
+  "result": {
+    "item": "modsupertool:divin_chestplate",
+    "count": 1
+  }
+}

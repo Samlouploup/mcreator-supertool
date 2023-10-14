@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:earthernergie_boots"
+    },
+    "2": {
+      "item": "modsupertool:earthernergie_boots"
+    },
+    "3": {
+      "item": "modsupertool:earthernergie_boots"
+    },
+    "4": {
+      "item": "modsupertool:pharaonb"
+    },
+    "5": {
+      "item": "modsupertool:earthernergie_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pharaon_boots",
+    "count": 1
+  }
+}

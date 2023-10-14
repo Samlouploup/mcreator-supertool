@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gravel"
+    },
+    "1": {
+      "item": "modsupertool:superpierre"
+    },
+    "2": {
+      "item": "minecraft:clay"
+    },
+    "3": {
+      "item": "minecraft:gravel"
+    },
+    "4": {
+      "item": "modsupertool:antigraviere"
+    },
+    "5": {
+      "item": "minecraft:clay"
+    },
+    "6": {
+      "item": "minecraft:gravel"
+    },
+    "7": {
+      "item": "modsupertool:antiargile"
+    },
+    "8": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "modsupertool:anti_gravier",
+    "count": 1
+  }
+}

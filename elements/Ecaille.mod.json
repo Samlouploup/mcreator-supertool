@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Blocks.CONDUIT"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.SCUTE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuperEcaille"
+    },
+    "name": "ecaille",
+    "namespace": "mod"
+  }
+}

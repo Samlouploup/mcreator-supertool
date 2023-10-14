@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Terre.body"
+      },
+      {
+        "value": "CUSTOM:Superpierre"
+      },
+      {
+        "value": "CUSTOM:Terre.body"
+      },
+      {
+        "value": "CUSTOM:Terre.body"
+      },
+      {
+        "value": "CUSTOM:Terre.body"
+      },
+      {
+        "value": "CUSTOM:Terre.body"
+      },
+      {
+        "value": "CUSTOM:Terre.body"
+      },
+      {
+        "value": "CUSTOM:Terre.body"
+      },
+      {
+        "value": "CUSTOM:Terre.body"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Pierre.body"
+    },
+    "name": "pierreplastron",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:terre_chestplate"
+    },
+    "1": {
+      "item": "modsupertool:bois_beni"
+    },
+    "2": {
+      "item": "modsupertool:terre_chestplate"
+    },
+    "3": {
+      "item": "modsupertool:terre_chestplate"
+    },
+    "4": {
+      "item": "modsupertool:terre_chestplate"
+    },
+    "5": {
+      "item": "modsupertool:terre_chestplate"
+    },
+    "6": {
+      "item": "modsupertool:terre_chestplate"
+    },
+    "7": {
+      "item": "modsupertool:terre_chestplate"
+    },
+    "8": {
+      "item": "modsupertool:terre_chestplate"
+    }
+  },
+  "result": {
+    "item": "modsupertool:naturel_chestplate",
+    "count": 1
+  }
+}

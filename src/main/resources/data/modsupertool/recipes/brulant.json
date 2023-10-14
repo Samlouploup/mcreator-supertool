@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:torch"
+    },
+    "1": {
+      "item": "modsupertool:pioche_en_pierre"
+    },
+    "2": {
+      "item": "minecraft:torch"
+    },
+    "4": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "7": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "modsupertool:piochebrulante",
+    "count": 1
+  }
+}

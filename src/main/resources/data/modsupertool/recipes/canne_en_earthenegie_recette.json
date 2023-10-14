@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "2": {
+      "item": "modsupertool:earthenergie"
+    },
+    "4": {
+      "item": "modsupertool:canne_a_peche_en_super_fer"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "6": {
+      "item": "modsupertool:canne_a_peche_en_super_fer"
+    },
+    "8": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "modsupertool:canne_en_earthenergie",
+    "count": 1
+  }
+}

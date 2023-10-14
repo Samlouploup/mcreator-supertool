@@ -1,0 +1,81 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 447,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ce_materiau_a_ete_cree_par_les_p",
+          "text": {
+            "fixedValue": "Ce matériau a été créé par les pharaons du désert et il était vu comme un symbole"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 1,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_de_royaute_si_bien_que_compacte",
+          "text": {
+            "fixedValue": "de royauté. Si bien que compacté au maximum, son énergie crée des enchantements"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 4,
+          "y": 54
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_automatiquement_et_une_aura_qui",
+          "text": {
+            "fixedValue": "automatiquement et une aura qui force le respect chez toutes les créatures vivantes."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": -3,
+          "y": 67
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "MateraiuxOuverture"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 380,
+          "y": 171
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

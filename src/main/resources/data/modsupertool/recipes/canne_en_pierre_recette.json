@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "2": {
+      "item": "modsupertool:superpierre"
+    },
+    "4": {
+      "item": "modsupertool:canne_a_peche_en_terre"
+    },
+    "5": {
+      "tag": "forge:stone"
+    },
+    "6": {
+      "item": "modsupertool:canne_a_peche_en_terre"
+    },
+    "8": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "modsupertool:canne_a_peche_en_pierre",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SuperPoudreDeBlaze"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.boots"
+      },
+      {
+        "value": "CUSTOM:SuperPoudreDeBlaze"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.boots"
+      },
+      {
+        "value": "CUSTOM:FlameParfaite"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.boots"
+      },
+      {
+        "value": "Blocks.ANCIENT_DEBRIS"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.boots"
+      },
+      {
+        "value": "Blocks.ANCIENT_DEBRIS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MaitreDuNether.boots"
+    },
+    "name": "maitre_du_nether_bottes_recette",
+    "namespace": "mod"
+  }
+}

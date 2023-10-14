@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_netherite"
+    },
+    "1": {
+      "item": "modsupertool:super_netherite"
+    },
+    "2": {
+      "item": "modsupertool:super_netherite"
+    },
+    "3": {
+      "item": "modsupertool:super_netherite"
+    },
+    "4": {
+      "item": "modsupertool:perle_pafaite"
+    },
+    "5": {
+      "item": "modsupertool:super_netherite"
+    },
+    "6": {
+      "item": "modsupertool:super_netherite"
+    },
+    "7": {
+      "item": "modsupertool:super_netherite"
+    },
+    "8": {
+      "item": "modsupertool:super_netherite"
+    }
+  },
+  "result": {
+    "item": "modsupertool:bloc_parfait",
+    "count": 1
+  }
+}

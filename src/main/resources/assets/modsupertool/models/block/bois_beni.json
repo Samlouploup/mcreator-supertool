@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/benis",
+    "up": "modsupertool:blocks/benis",
+    "north": "modsupertool:blocks/benis",
+    "east": "modsupertool:blocks/benis",
+    "south": "modsupertool:blocks/benis",
+    "west": "modsupertool:blocks/benis",
+    "particle": "modsupertool:blocks/benis"
+  },
+  "render_type": "solid"
+}

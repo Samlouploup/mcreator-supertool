@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/pharaon",
+    "up": "modsupertool:blocks/pharaon",
+    "north": "modsupertool:blocks/pharaon",
+    "east": "modsupertool:blocks/pharaon",
+    "south": "modsupertool:blocks/pharaon",
+    "west": "modsupertool:blocks/pharaon",
+    "particle": "modsupertool:blocks/pharaon"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "1": {
+      "item": "modsupertool:naturel_leggings"
+    },
+    "2": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "3": {
+      "item": "modsupertool:naturel_leggings"
+    },
+    "4": {
+      "item": "modsupertool:bloc_conducteur"
+    },
+    "5": {
+      "item": "modsupertool:naturel_leggings"
+    },
+    "6": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "8": {
+      "item": "modsupertool:fil_conducteur"
+    }
+  },
+  "result": {
+    "item": "modsupertool:conducteur_armor_leggings",
+    "count": 1
+  }
+}

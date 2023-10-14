@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "67 "
+  ],
+  "key": {
+    "2": {
+      "item": "modsupertool:super_fer_b"
+    },
+    "4": {
+      "item": "modsupertool:super_cerisier"
+    },
+    "5": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "6": {
+      "item": "modsupertool:epee_en_super_fer"
+    },
+    "7": {
+      "item": "modsupertool:super_diamant"
+    }
+  },
+  "result": {
+    "item": "modsupertool:super_katana",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "1": {
+      "item": "modsupertool:superpierre"
+    },
+    "2": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "4": {
+      "item": "modsupertool:pioche_en_terre"
+    },
+    "7": {
+      "item": "modsupertool:pioche_en_terre"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pioche_en_pierre",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "34 ",
+    "67 "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "minecraft:sea_pickle"
+    },
+    "4": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "6": {
+      "item": "minecraft:shears"
+    },
+    "7": {
+      "item": "minecraft:dried_kelp_block"
+    }
+  },
+  "result": {
+    "item": "modsupertool:cisailles_a_ecaille",
+    "count": 1
+  }
+}

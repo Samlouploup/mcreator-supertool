@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/fer",
+    "up": "modsupertool:blocks/fer",
+    "north": "modsupertool:blocks/fer",
+    "east": "modsupertool:blocks/fer",
+    "south": "modsupertool:blocks/fer",
+    "west": "modsupertool:blocks/fer",
+    "particle": "modsupertool:blocks/fer"
+  },
+  "render_type": "solid"
+}

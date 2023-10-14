@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:epee_en_earthenergie"
+    },
+    "1": {
+      "item": "modsupertool:epee_en_earthenergie"
+    },
+    "2": {
+      "item": "modsupertool:pharaonb"
+    }
+  },
+  "result": {
+    "item": "modsupertool:epee_du_pharaon",
+    "count": 1
+  }
+}

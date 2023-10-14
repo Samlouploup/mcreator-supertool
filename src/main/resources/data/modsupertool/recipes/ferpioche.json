@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "modsupertool:super_fer_b"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "4": {
+      "item": "modsupertool:pioche_en_pierre"
+    },
+    "7": {
+      "item": "modsupertool:pioche_en_pierre"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pioche_en_fer",
+    "count": 1
+  }
+}

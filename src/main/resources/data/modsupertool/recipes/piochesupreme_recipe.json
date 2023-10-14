@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond"
+    },
+    "1": {
+      "item": "modsupertool:supremeb"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "modsupertool:pioche_du_pharaon"
+    },
+    "7": {
+      "item": "modsupertool:pioche_du_pharaon"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pioche_supreme",
+    "count": 1
+  }
+}

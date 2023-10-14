@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/bois",
+    "up": "modsupertool:blocks/bois",
+    "north": "modsupertool:blocks/bois",
+    "east": "modsupertool:blocks/bois",
+    "south": "modsupertool:blocks/bois",
+    "west": "modsupertool:blocks/bois",
+    "particle": "modsupertool:blocks/bois"
+  },
+  "render_type": "solid"
+}

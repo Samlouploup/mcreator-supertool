@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_diamant"
+    },
+    "1": {
+      "item": "modsupertool:super_diamant"
+    },
+    "2": {
+      "item": "modsupertool:super_diamant"
+    },
+    "3": {
+      "item": "modsupertool:super_diamant"
+    },
+    "4": {
+      "item": "modsupertool:orbe_supreme"
+    },
+    "5": {
+      "item": "modsupertool:super_diamant"
+    },
+    "6": {
+      "item": "modsupertool:super_diamant"
+    },
+    "7": {
+      "item": "modsupertool:super_diamant"
+    },
+    "8": {
+      "item": "modsupertool:super_diamant"
+    }
+  },
+  "result": {
+    "item": "modsupertool:supremeb",
+    "count": 1
+  }
+}

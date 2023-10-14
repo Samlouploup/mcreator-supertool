@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "2": {
+      "item": "modsupertool:supremeb"
+    },
+    "4": {
+      "item": "modsupertool:canne_du_pharaon"
+    },
+    "5": {
+      "item": "minecraft:diamond_block"
+    },
+    "6": {
+      "item": "modsupertool:canne_du_pharaon"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "modsupertool:canne_supreme",
+    "count": 1
+  }
+}

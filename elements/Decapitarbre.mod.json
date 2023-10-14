@@ -1,0 +1,41 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "decapitarbre",
+    "customModelName": "Normal",
+    "name": "Decapitarbre",
+    "specialInfo": [
+      "pour faire sa fortune en bûches",
+      "attention ne marche que sur les arbres vanilla !"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 16.0,
+    "attackSpeed": 1.0,
+    "enchantability": 4,
+    "damageVsEntity": 1.7000000000000002,
+    "usageCount": 0,
+    "blocksAffected": [
+      {
+        "value": "Blocks.LOG"
+      },
+      {
+        "value": "Blocks.LOG2"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Superor"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

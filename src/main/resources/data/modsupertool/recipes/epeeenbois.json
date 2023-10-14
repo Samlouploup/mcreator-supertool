@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_bois"
+    },
+    "1": {
+      "item": "modsupertool:bois_beni"
+    },
+    "2": {
+      "item": "modsupertool:epee_en_terre"
+    }
+  },
+  "result": {
+    "item": "modsupertool:epee_en_super_bois",
+    "count": 1
+  }
+}

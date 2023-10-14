@@ -1,0 +1,141 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 311,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "LeCodexEvenementAuClicDroitDansLair"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 261,
+          "y": 176
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_voici_le_codex_il_contient_tout",
+          "text": {
+            "fixedValue": "Voici le codex. Il contient toute les histoires et les"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 62,
+          "y": 45
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_legendes_sur_la_magie_de_compact",
+          "text": {
+            "fixedValue": "légendes sur la magie de compactage et"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 62,
+          "y": 59
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_sur_toutes",
+          "text": {
+            "fixedValue": "sur toutes"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 265,
+          "y": 59
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_armures_et_outils_qui_en_dec",
+          "text": {
+            "fixedValue": "les armures et outils qui en découlent."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 64,
+          "y": 74
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_bonne_lecture",
+          "text": {
+            "fixedValue": "Bonne lecture !"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 271,
+          "y": 74
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ps_lisez_les_chapitres_de_haut",
+          "text": {
+            "fixedValue": "PS: lisez les chapitres de haut en bas c'est plus facile "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 63,
+          "y": 127
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_a_comprendre",
+          "text": {
+            "fixedValue": "à comprendre.          :)"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 64,
+          "y": 140
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

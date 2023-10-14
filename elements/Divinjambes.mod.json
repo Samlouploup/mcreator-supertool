@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Parfait.legs"
+      },
+      {
+        "value": "CUSTOM:Parfait.legs"
+      },
+      {
+        "value": "CUSTOM:Parfait.legs"
+      },
+      {
+        "value": "CUSTOM:Parfait.legs"
+      },
+      {
+        "value": "CUSTOM:SuperStar"
+      },
+      {
+        "value": "CUSTOM:Parfait.legs"
+      },
+      {
+        "value": "CUSTOM:Parfait.legs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Parfait.legs"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Divin.legs"
+    },
+    "name": "divinjambes",
+    "namespace": "mod"
+  }
+}

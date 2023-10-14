@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "1": {
+      "item": "modsupertool:naturel_helmet"
+    },
+    "2": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "3": {
+      "item": "modsupertool:naturel_helmet"
+    },
+    "4": {
+      "item": "modsupertool:bloc_conducteur"
+    },
+    "5": {
+      "item": "modsupertool:naturel_helmet"
+    }
+  },
+  "result": {
+    "item": "modsupertool:conducteur_armor_helmet",
+    "count": 1
+  }
+}

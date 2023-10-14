@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "1": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "2": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "3": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "4": {
+      "item": "modsupertool:super_ecaille"
+    },
+    "5": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "6": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    },
+    "8": {
+      "item": "modsupertool:conducteur_armor_leggings"
+    }
+  },
+  "result": {
+    "item": "modsupertool:roi_des_mers_leggings",
+    "count": 1
+  }
+}

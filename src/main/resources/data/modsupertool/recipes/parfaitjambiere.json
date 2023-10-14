@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "modsupertool:supreme_leggings"
+  },
+  "addition": {
+    "item": "modsupertool:lingot_parfait"
+  },
+  "result": {
+    "item": "modsupertool:parfait_leggings"
+  }
+}

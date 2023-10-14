@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "painting",
+  "definition": {
+    "texture": "pioche.png",
+    "width": 80,
+    "height": 80,
+    "title": "Pioche Bleue",
+    "author": "le Super Peintre"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.WHITE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.SHULKER_BOX"
+      },
+      {
+        "value": "CUSTOM:SuperOeilDeLend"
+      },
+      {
+        "value": "Blocks.DRAGON_EGG"
+      },
+      {
+        "value": "CUSTOM:SuperOeilDeLend"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.boots"
+      },
+      {
+        "value": "Blocks.SKULL#5"
+      },
+      {
+        "value": "CUSTOM:ConducteurArmor.boots"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Ender.boots"
+    },
+    "name": "bottes_de_lend_recette",
+    "namespace": "mod"
+  }
+}

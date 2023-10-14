@@ -1,0 +1,186 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 424,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_un_jour_le_dieu_du_feu_vint_voi1",
+          "text": {
+            "fixedValue": "Un jour, le dieu du feu vint voir les trois clans du Nether en secret et leur"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 4,
+          "y": 45
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_fournit_a_chacun_un_plan_de_temp",
+          "text": {
+            "fixedValue": "fournit à chacun un plan de temple, et des indications sur les lieux où ils"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 61
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pourraient_construire_ces_temple",
+          "text": {
+            "fixedValue": "pourraient construire ces temples : il dit à ces trois clans : « construisez ces"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 3,
+          "y": 74
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_temples_uniquement_la_ou_vous_s",
+          "text": {
+            "fixedValue": " temples uniquement la où vous seul pourrez accéder ». Alors, les Berserks"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 86
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_construisirent_leurs_temples_dan",
+          "text": {
+            "fixedValue": "construisirent leurs temples dans la montagne de Netherack ; les Mages les"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 100
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_construisirent_en_lair_ou_ils_e",
+          "text": {
+            "fixedValue": "construisirent en l’air où ils étaient visibles mais inaccessibles."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 8,
+          "y": 114
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_enfin_les",
+          "text": {
+            "fixedValue": "Enfin, les"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 358,
+          "y": 114
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_elementaux_construisirent_leurs",
+          "text": {
+            "fixedValue": "Elémentaux construisirent leurs temples dans les lacs"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 8,
+          "y": 128
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_de_lavecar_ils_etaient",
+          "text": {
+            "fixedValue": "de lave,car ils étaient"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 290,
+          "y": 129
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_seuls_a_resister_au_feu",
+          "text": {
+            "fixedValue": "les seuls à résister au feu."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 9,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "OuvrirNether"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 379,
+          "y": 174
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

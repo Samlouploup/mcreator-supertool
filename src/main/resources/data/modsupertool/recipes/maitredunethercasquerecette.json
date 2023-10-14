@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "1": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "2": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "3": {
+      "item": "modsupertool:super_poudre_de_blaze"
+    },
+    "4": {
+      "item": "modsupertool:flame_parfaite"
+    },
+    "5": {
+      "item": "modsupertool:super_poudre_de_blaze"
+    },
+    "6": {
+      "item": "minecraft:ancient_debris"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "minecraft:ancient_debris"
+    }
+  },
+  "result": {
+    "item": "modsupertool:maitre_du_nether_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Superfer.boots"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Superfer.boots"
+      },
+      {
+        "value": "CUSTOM:Superfer.boots"
+      },
+      {
+        "value": "CUSTOM:Earthenergie"
+      },
+      {
+        "value": "CUSTOM:Superfer.boots"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Earthernergie.boots"
+    },
+    "name": "earthenergiebottes",
+    "namespace": "mod"
+  }
+}

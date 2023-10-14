@@ -1,0 +1,36 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "wither",
+    "customModelName": "Normal",
+    "name": "Pioche-Wither",
+    "specialInfo": [
+      "clic droit pour casser un bloc"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Special",
+    "harvestLevel": 4,
+    "efficiency": 15.0,
+    "attackSpeed": 2.0,
+    "enchantability": 0,
+    "damageVsEntity": 9.0,
+    "usageCount": 0,
+    "blocksAffected": [
+      {
+        "value": "Blocks.BEDROCK"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "PiocheWitherRightclickedOnBlock"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/redstone",
+    "up": "modsupertool:blocks/redstone",
+    "north": "modsupertool:blocks/redstone",
+    "east": "modsupertool:blocks/redstone",
+    "south": "modsupertool:blocks/redstone",
+    "west": "modsupertool:blocks/redstone",
+    "particle": "modsupertool:blocks/redstone"
+  },
+  "render_type": "solid"
+}

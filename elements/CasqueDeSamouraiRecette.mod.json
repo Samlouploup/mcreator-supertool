@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Automate.helmet"
+      },
+      {
+        "value": "CUSTOM:Automate.helmet"
+      },
+      {
+        "value": "CUSTOM:Automate.helmet"
+      },
+      {
+        "value": "CUSTOM:PlaqueDeSamourai"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlaqueDeSamourai"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Samourai.helmet"
+    },
+    "name": "casque_de_samourai_recette",
+    "namespace": "mod"
+  }
+}

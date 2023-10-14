@@ -1,0 +1,36 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pharaonepeeeeee",
+    "customModelName": "Normal",
+    "name": "Epee Du Pharaon",
+    "specialInfo": [
+      "enchanté"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 6.0,
+    "attackSpeed": 1.8,
+    "enchantability": 5,
+    "damageVsEntity": 8.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BatonDuPharaon"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "EpeeParfaiteeQuandLobjetEstFabriquefondu"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "piocheembrase",
+    "customModelName": "Normal",
+    "name": "Pioche Embrase",
+    "specialInfo": [
+      "Si chaud que ça garde tout intacte !",
+      "breaking power:3"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 3,
+    "efficiency": 15.0,
+    "attackSpeed": 0.6,
+    "enchantability": 5,
+    "damageVsEntity": 1.7999999999999998,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Piocheembraseprocedure"
+    },
+    "onItemInUseTick": {
+      "name": "PiochebrulanteToolInHandTick"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "PiocheEnFerQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

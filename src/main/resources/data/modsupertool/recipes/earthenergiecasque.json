@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:superfer_helmet"
+    },
+    "1": {
+      "item": "modsupertool:superfer_helmet"
+    },
+    "2": {
+      "item": "modsupertool:superfer_helmet"
+    },
+    "3": {
+      "item": "modsupertool:superfer_helmet"
+    },
+    "4": {
+      "item": "modsupertool:earthenergie"
+    },
+    "5": {
+      "item": "modsupertool:superfer_helmet"
+    }
+  },
+  "result": {
+    "item": "modsupertool:earthernergie_helmet",
+    "count": 1
+  }
+}

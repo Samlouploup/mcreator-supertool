@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "2": {
+      "item": "modsupertool:pharaonb"
+    },
+    "4": {
+      "item": "modsupertool:canne_en_earthenergie"
+    },
+    "5": {
+      "item": "minecraft:gold_block"
+    },
+    "6": {
+      "item": "modsupertool:canne_en_earthenergie"
+    },
+    "8": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "modsupertool:canne_du_pharaon",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/supergold",
+    "up": "modsupertool:blocks/supergold",
+    "north": "modsupertool:blocks/supergold",
+    "east": "modsupertool:blocks/supergold",
+    "south": "modsupertool:blocks/supergold",
+    "west": "modsupertool:blocks/supergold",
+    "particle": "modsupertool:blocks/supergold"
+  },
+  "render_type": "solid"
+}

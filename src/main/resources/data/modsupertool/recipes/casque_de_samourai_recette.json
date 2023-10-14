@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "modsupertool:automate_helmet"
+    },
+    "4": {
+      "item": "modsupertool:automate_helmet"
+    },
+    "5": {
+      "item": "modsupertool:automate_helmet"
+    },
+    "6": {
+      "item": "modsupertool:plaque_de_samourai"
+    },
+    "8": {
+      "item": "modsupertool:plaque_de_samourai"
+    }
+  },
+  "result": {
+    "item": "modsupertool:samourai_helmet",
+    "count": 1
+  }
+}

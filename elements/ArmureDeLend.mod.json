@@ -1,0 +1,276 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 422,
+    "height": 179,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_apres_avoir_retabli_la_paix_dans",
+          "text": {
+            "fixedValue": "Après avoir rétabli la paix dans le Nether, l’élu rencontra un enderman"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 39
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_qui_avait",
+          "text": {
+            "fixedValue": "qui"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 379,
+          "y": 39
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_avait_eu_vent_de_ses_exploits_da",
+          "text": {
+            "fixedValue": "avait eu vent de ses exploits dans le Nether."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 54
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_cette_enderman_lui_dit_vient",
+          "text": {
+            "fixedValue": "Cette enderman lui dit : «vient"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 242,
+          "y": 55
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dans_mon_monde_calmer_lender_dr",
+          "text": {
+            "fixedValue": "dans mon monde calmer l’ender dragon. Il est entré  dans une"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 8,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_colere_folle",
+          "text": {
+            "fixedValue": "colère folle»."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 325,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_alors_lelu_accepta_et_lenderm",
+          "text": {
+            "fixedValue": "Alors l’élu accepta, et l’enderman le téléporta dans l’End. Une fois arrivé,"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_lelu_fut_epouvante_par_la_quant",
+          "text": {
+            "fixedValue": "l’élu fut épouvanté par la quantité de vide et le froid"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_qui_regne_dans_lend",
+          "text": {
+            "fixedValue": "qui règne dans l’End"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 295,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_il_dit_a_lenderman_il_me_fau",
+          "text": {
+            "fixedValue": "il dit à l’enderman : «Il me faut une armure digne"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_de_ce_nom_apporte_moi_tout_les",
+          "text": {
+            "fixedValue": "de ce nom. Apporte moi tous"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 270,
+          "y": 108
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_materiaux_que_tu_peut_trouve",
+          "text": {
+            "fixedValue": "les matériaux que tu peux trouver. »L’enderman"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 120
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_se_mit_au_travail_et_aida_lelu",
+          "text": {
+            "fixedValue": "se mit au travail et aida l’élu"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 252,
+          "y": 120
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_a_construire_son_armure_ils_si",
+          "text": {
+            "fixedValue": "à construire son armure. Ils s’inspirèrent de la"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 131
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_magie_du_nether_et_construisiren",
+          "text": {
+            "fixedValue": "magie du nether et"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 265,
+          "y": 131
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_construisirent_larmure_parfait",
+          "text": {
+            "fixedValue": " construisirent l’armure parfaite pour l’end."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 145
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "OuvrirNether"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 376,
+          "y": 178
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

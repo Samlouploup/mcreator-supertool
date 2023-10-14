@@ -1,0 +1,35 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "epeeparfaite",
+    "customModelName": "Normal",
+    "name": "Epee Parfaite",
+    "specialInfo": [
+      "réunit les effets de toute les épées précédentes"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 6,
+    "efficiency": 12.0,
+    "attackSpeed": 2.5,
+    "enchantability": 10,
+    "damageVsEntity": 16.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "EpeeParfaiteeQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "EpeeParfaiteeLorsqueLoutilEstDansLaMain"
+    }
+  }
+}

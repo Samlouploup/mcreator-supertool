@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_bois"
+    },
+    "1": {
+      "item": "modsupertool:super_bois"
+    },
+    "2": {
+      "item": "modsupertool:super_bois"
+    },
+    "3": {
+      "item": "modsupertool:super_bois"
+    },
+    "4": {
+      "item": "modsupertool:ame_monde"
+    },
+    "5": {
+      "item": "modsupertool:super_bois"
+    },
+    "6": {
+      "item": "modsupertool:super_bois"
+    },
+    "7": {
+      "item": "modsupertool:super_bois"
+    },
+    "8": {
+      "item": "modsupertool:super_bois"
+    }
+  },
+  "result": {
+    "item": "modsupertool:bois_beni",
+    "count": 1
+  }
+}

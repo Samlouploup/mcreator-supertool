@@ -1,0 +1,35 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "epeeenpharaon",
+    "customModelName": "Normal",
+    "name": "Epee Divine",
+    "specialInfo": [
+      "une lame si puissante qu'elle pourait couper en deux excalibur"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 15,
+    "efficiency": 20.0,
+    "attackSpeed": 4.0,
+    "enchantability": 25,
+    "damageVsEntity": 20.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "EpeeDivineQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "EpeeDivineLosqueLepeeEstDansLaMain"
+    }
+  }
+}

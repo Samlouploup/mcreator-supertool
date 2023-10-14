@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "1": {
+      "item": "modsupertool:super_oeil_de_lend"
+    },
+    "2": {
+      "item": "modsupertool:epee_en_super_bois"
+    }
+  },
+  "result": {
+    "item": "modsupertool:epee_de_lend",
+    "count": 1
+  }
+}

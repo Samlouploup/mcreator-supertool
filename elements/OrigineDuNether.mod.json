@@ -1,0 +1,441 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 414,
+    "height": 234,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_autrefois_le_nether_etait_flori",
+          "text": {
+            "fixedValue": "Autrefois, le Nether était florissant et il y vivait une "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 24
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_civilisation_puissante_et_develo1",
+          "text": {
+            "fixedValue": "civilisation puissante et développée qui maîtrisait la magie de "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 36
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_compactage_et_celles_des_4_eleme",
+          "text": {
+            "fixedValue": "compactage et celles des 4 éléments. Ce pays était dirigé par"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 47
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_un_roi_sage_et_bon_et_faisait_ch",
+          "text": {
+            "fixedValue": "un roi sage et bon et faisait chaque année des sacrifices aux dieux"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 36,
+          "y": 59
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pour_obtenir_leur_grace_et_atte",
+          "text": {
+            "fixedValue": " pour obtenir leur grâce et atténuer leurs colères.Ce peuple était "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 33,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_heureux_jusquau_jour_ou_une_ter1",
+          "text": {
+            "fixedValue": "heureux jusqu’au jour où une terrible famine s'abattit sur eux."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 36,
+          "y": 84
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_alors_le_roi_ne_voulant_pas_fai1",
+          "text": {
+            "fixedValue": "Alors le roi, ne voulant pas faire souffrir davantage son peuple, demanda"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 97
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_lors_de_la_fete_des_sacrifices2",
+          "text": {
+            "fixedValue": "lors de la fête des sacrifices, de ne pas faire de sacrifices au "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 34,
+          "y": 110
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dieux_du_feu_de_la_ferme_et_de",
+          "text": {
+            "fixedValue": "dieux du feu, de la ferme et de la richesse ; qui"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 122
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_demandait_tout",
+          "text": {
+            "fixedValue": " demandaient tous "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 290,
+          "y": 122
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_trois_de_la_nourriture_mais_ce",
+          "text": {
+            "fixedValue": "trois de la nourriture. Mais ces dieux"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_entrerent_dans_un_colere",
+          "text": {
+            "fixedValue": " entrèrent dans une colère "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 240,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_folle_le_dieux_du_feu_brulat_l",
+          "text": {
+            "fixedValue": "folle : le dieu du feu brûla le royaume et fit"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 145
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_germer_des_lacs_de",
+          "text": {
+            "fixedValue": "germer des lacs de "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 278,
+          "y": 145
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_lave_immenses_coupant_tout_acce",
+          "text": {
+            "fixedValue": "lave immenses, coupant tout accès avec les autres pays.Le"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 157
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dieu_de_la",
+          "text": {
+            "fixedValue": "dieu de la"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 337,
+          "y": 157
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ferme_lui_transforma_tout_les",
+          "text": {
+            "fixedValue": "ferme, lui, transforma tous les habitants"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 169
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_en_cochon_et_le_dieu",
+          "text": {
+            "fixedValue": " en cochon et le dieu"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 245,
+          "y": 169
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_de_la",
+          "text": {
+            "fixedValue": " de la "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 352,
+          "y": 169
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_richesse_les_obligeat_a_venerer",
+          "text": {
+            "fixedValue": "richesse les obligea à vénérer l’or plus que tout grâce à un "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 180
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_enchantementdes_annees_plus_tar",
+          "text": {
+            "fixedValue": "enchantement.Des années plus tard, les hommes cochon que"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 191
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_lon_appelle",
+          "text": {
+            "fixedValue": " l’on appelle"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 339,
+          "y": 191
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_aujourdhui_piglin_se_sont_rass",
+          "text": {
+            "fixedValue": "aujourd’hui piglin, se sont rassemblés en 2 clans: les Mages"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 34,
+          "y": 201
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_et_les",
+          "text": {
+            "fixedValue": " et les "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 346,
+          "y": 201
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_berserks_puis_de_la_lave_naqui",
+          "text": {
+            "fixedValue": "Berserks. Puis, de la lave naquirent des élémentaux"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 34,
+          "y": 212
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_de_feu_qui",
+          "text": {
+            "fixedValue": " de feu qui "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 301,
+          "y": 212
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_formerent_un_troisieme_clan",
+          "text": {
+            "fixedValue": "formèrent un troisième clan."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 35,
+          "y": 222
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "OuvrirNether"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 335,
+          "y": 13
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

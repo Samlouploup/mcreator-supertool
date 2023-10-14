@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:barrier"
+    },
+    "1": {
+      "item": "minecraft:barrier"
+    },
+    "2": {
+      "item": "minecraft:barrier"
+    },
+    "4": {
+      "item": "modsupertool:pioche_en_fer"
+    },
+    "7": {
+      "item": "modsupertool:pioche_en_fer"
+    }
+  },
+  "result": {
+    "item": "modsupertool:casse_vide",
+    "count": 1
+  }
+}

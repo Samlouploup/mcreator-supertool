@@ -1,0 +1,156 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 432,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_la_magie_de_compactage_est_une_m",
+          "text": {
+            "fixedValue": "La magie de compactage est une magie qui utilise l’énergie magique dégagée par"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 4,
+          "y": 43
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_blocs_ambiant_cependant_ce",
+          "text": {
+            "fixedValue": "les blocs ambiants. Cependant, ces blocs dégage très peu de magie, il faut donc"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 3,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_concentrer_beaucoup_pour_que_leu",
+          "text": {
+            "fixedValue": "en concentrer beaucoup pour que leurs énergies se multiplient d’elles mêmes et "
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 3,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_deviennent_assez_forte_pour_etre",
+          "text": {
+            "fixedValue": "deviennent assez fortes pour être utilisé en magie. Une fois qu’on a obtenu assez"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 2,
+          "y": 90
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_denergie_il_faut_infuser_cette",
+          "text": {
+            "fixedValue": "d’énergie, il faut infuser cette énergie dans une armure assez solide pour la"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 2,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_supporter_cest_a_dire_une_armu",
+          "text": {
+            "fixedValue": "supporter, c’est à dire une armure compactée moins puissante. Lorsque elle est"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 3,
+          "y": 124
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_enfin_infusee_dans_une_armure_l",
+          "text": {
+            "fixedValue": "enfin infusée dans une armure, l’énergie écrase et se nourrit de l’énergie"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 3,
+          "y": 139
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_precedente_suppriment_ainsi_tous",
+          "text": {
+            "fixedValue": "précédente, supprimant ainsi tous ses pouvoirs."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 2,
+          "y": 153
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "LeCodexEvenementAuClicDroitDansLair"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 386,
+          "y": 175
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

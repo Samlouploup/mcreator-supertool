@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "tab",
+  "definition": {
+    "name": "Items Divers Super Tools",
+    "icon": {
+      "value": "CUSTOM:LeCodex"
+    },
+    "showSearch": false
+  }
+}

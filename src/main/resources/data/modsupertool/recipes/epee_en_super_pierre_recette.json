@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:epee_en_terre"
+    },
+    "1": {
+      "item": "modsupertool:epee_en_terre"
+    },
+    "2": {
+      "item": "modsupertool:superpierre"
+    }
+  },
+  "result": {
+    "item": "modsupertool:epee_en_super_pierre",
+    "count": 1
+  }
+}

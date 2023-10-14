@@ -1,0 +1,94 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 440,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_les_supers_utilities_sont_des_ob",
+          "text": {
+            "fixedValue": "Les Supers Utilities sont des objets fabriqués grâce à une variante de la magie de"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 1,
+          "y": 40
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_compactage",
+          "text": {
+            "fixedValue": "compactage"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 2,
+          "y": 56
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "LeCodexEvenementAuClicDroitDansLair"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 388,
+          "y": 174
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_supertrader",
+          "text": "SuperTrader",
+          "onClick": {
+            "name": "SupertraderOuverture"
+          },
+          "width": 82,
+          "height": 20,
+          "x": 10,
+          "y": 76
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_potion_dexp",
+          "text": "potion d'exp",
+          "onClick": {
+            "name": "PotionDexpOuverture"
+          },
+          "width": 87,
+          "height": 20,
+          "x": 9,
+          "y": 102
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

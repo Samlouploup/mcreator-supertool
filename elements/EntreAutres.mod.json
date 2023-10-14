@@ -1,0 +1,78 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_nether",
+          "text": "nether",
+          "onClick": {
+            "name": "OuvrirNether"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 190,
+          "y": 73
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_items",
+          "text": "items",
+          "onClick": {
+            "name": "Itemsguiouvertures"
+          },
+          "width": 51,
+          "height": 20,
+          "x": 130,
+          "y": 73
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "LeCodexEvenementAuClicDroitDansLair"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 259,
+          "y": 43
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_golem_corompu",
+          "text": "golem corompu",
+          "onClick": {
+            "name": "GolemCorompuFermeture"
+          },
+          "width": 93,
+          "height": 20,
+          "x": 130,
+          "y": 103
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

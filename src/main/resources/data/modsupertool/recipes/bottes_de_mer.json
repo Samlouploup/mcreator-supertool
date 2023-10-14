@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:conducteur_armor_boots"
+    },
+    "2": {
+      "item": "modsupertool:conducteur_armor_boots"
+    },
+    "3": {
+      "item": "modsupertool:conducteur_armor_boots"
+    },
+    "4": {
+      "item": "modsupertool:super_ecaille"
+    },
+    "5": {
+      "item": "modsupertool:conducteur_armor_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:roi_des_mers_boots",
+    "count": 1
+  }
+}

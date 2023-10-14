@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/emeraude",
+    "up": "modsupertool:blocks/emeraude",
+    "north": "modsupertool:blocks/emeraude",
+    "east": "modsupertool:blocks/emeraude",
+    "south": "modsupertool:blocks/emeraude",
+    "west": "modsupertool:blocks/emeraude",
+    "particle": "modsupertool:blocks/emeraude"
+  },
+  "render_type": "solid"
+}

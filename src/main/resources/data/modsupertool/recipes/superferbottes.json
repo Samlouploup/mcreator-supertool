@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:pierre_boots"
+    },
+    "2": {
+      "item": "modsupertool:pierre_boots"
+    },
+    "3": {
+      "item": "modsupertool:pierre_boots"
+    },
+    "4": {
+      "item": "modsupertool:super_fer_b"
+    },
+    "5": {
+      "item": "modsupertool:pierre_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:superfer_boots",
+    "count": 1
+  }
+}

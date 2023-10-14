@@ -1,0 +1,126 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 424,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_earthenergie_est_compose_de_2_ge",
+          "text": {
+            "fixedValue": "L'Earthenergie est composée de 2 gemmes:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 116,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_lemeraude_gemme_du_commerce_et",
+          "text": {
+            "fixedValue": "L'émeraude, gemme du commerce et de la vie et la redstone,"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 61
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_gemme_de_lenergie",
+          "text": {
+            "fixedValue": "gemme de l'énergie."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 314,
+          "y": 61
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_grace_a_ce_melange_leartherneg",
+          "text": {
+            "fixedValue": "Grâce à ce mélange, l'Earthernegie compactée au maximum octroie"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 5,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_une_chance",
+          "text": {
+            "fixedValue": "une chance"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 339,
+          "y": 75
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_et_une_vitalite_superieur_ainsi",
+          "text": {
+            "fixedValue": "et une vitalité supérieures ainsi qu'une vitesse digne d'un courant de redstone."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 90
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "<-",
+          "onClick": {
+            "name": "MateraiuxOuverture"
+          },
+          "width": 35,
+          "height": 20,
+          "x": 382,
+          "y": 175
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

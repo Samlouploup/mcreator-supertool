@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/supercerisier",
+    "up": "modsupertool:blocks/supercerisier",
+    "north": "modsupertool:blocks/supercerisier",
+    "east": "modsupertool:blocks/supercerisier",
+    "south": "modsupertool:blocks/supercerisier",
+    "west": "modsupertool:blocks/supercerisier",
+    "particle": "modsupertool:blocks/supercerisier"
+  },
+  "render_type": "solid"
+}

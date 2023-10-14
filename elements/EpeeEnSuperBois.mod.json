@@ -1,0 +1,35 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "epeenbois",
+    "customModelName": "Normal",
+    "name": "Epee En Super Bois",
+    "specialInfo": [
+      "enchanté"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 1.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.30000000000000004,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "EpeeEnSuperBoisRightclicked"
+    },
+    "onItemInUseTick": {
+      "name": "EpeeEnSuperBoisToolInHandTick"
+    }
+  }
+}

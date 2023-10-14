@@ -1,0 +1,43 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "piocheinfernal",
+    "customModelName": "Normal",
+    "name": "Pioche Infernal",
+    "specialInfo": [
+      "Si ardent que ça garde tout intacte",
+      "Vous protège du feu par clic droit.",
+      "breaking power:5"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 25.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 2.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "PiocheInfernalRightclicked"
+    },
+    "onEntityHitWith": {
+      "name": "PiochInfernalProcedure"
+    },
+    "onItemInUseTick": {
+      "name": "PiochebrulanteToolInHandTick"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "PiocheEnFerQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

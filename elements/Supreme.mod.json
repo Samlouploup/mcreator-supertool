@@ -1,0 +1,102 @@
+{
+  "_fv": 43,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "supreme_head",
+    "enableBody": true,
+    "textureBody": "supreme_body",
+    "enableLeggings": true,
+    "textureLeggings": "supreme_leggings",
+    "enableBoots": true,
+    "textureBoots": "supreme_boots",
+    "onHelmetTick": {
+      "name": "SupremeHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "SupremeHelmetTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "SupremeHelmetTickEvent"
+    },
+    "onBootsTick": {
+      "name": "SupremeHelmetTickEvent"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "armorTextureFile": "supreme",
+    "helmetName": "casque Supreme",
+    "bodyName": "plastron Supreme",
+    "leggingsName": "jambière Supreme",
+    "bootsName": "bottes Supreme",
+    "helmetSpecialInfo": [
+      "donne nyctalopie",
+      "donne force 2",
+      "donne résistance 2",
+      "donne vitesse 1"
+    ],
+    "bodySpecialInfo": [
+      "donne nyctalopie",
+      "donne force 2",
+      "donne résistance 2",
+      "donne vitesse 1"
+    ],
+    "leggingsSpecialInfo": [
+      "donne nyctalopie",
+      "donne force 2",
+      "donne résistance 2",
+      "donne vitesse 1"
+    ],
+    "bootsSpecialInfo": [
+      "donne nyctalopie",
+      "donne force 2",
+      "donne résistance 2",
+      "donne vitesse 1"
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 0,
+    "damageValueHelmet": 15,
+    "damageValueBody": 15,
+    "damageValueLeggings": 15,
+    "damageValueBoots": 15,
+    "enchantability": 15,
+    "toughness": 3.0,
+    "knockbackResistance": 0.4,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      }
+    ]
+  }
+}

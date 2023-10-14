@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "1": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "2": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "3": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    },
+    "4": {
+      "item": "modsupertool:super_ecaille"
+    },
+    "5": {
+      "item": "modsupertool:conducteur_armor_helmet"
+    }
+  },
+  "result": {
+    "item": "modsupertool:roi_des_mers_helmet",
+    "count": 1
+  }
+}

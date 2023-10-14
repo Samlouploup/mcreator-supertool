@@ -1,0 +1,39 @@
+{
+  "_fv": 43,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "parfaitpioche",
+    "customModelName": "Normal",
+    "name": "Pioche Parfaite",
+    "specialInfo": [
+      "breaking power:4",
+      "réunit les effets de toute les pioches précédentes"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 22.0,
+    "attackSpeed": 2.0,
+    "enchantability": 15,
+    "damageVsEntity": 9.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "PiocheParfaiteQuandLobjetEstFabriquefondu"
+    },
+    "onItemInUseTick": {
+      "name": "PiocheParfaiteWhenToolInHandTick"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "PiocheEnFerQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

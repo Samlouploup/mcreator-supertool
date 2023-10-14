@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "2": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "3": {
+      "item": "modsupertool:naturel_chestplate"
+    },
+    "4": {
+      "item": "modsupertool:bloc_conducteur"
+    },
+    "5": {
+      "item": "modsupertool:naturel_chestplate"
+    },
+    "6": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "7": {
+      "item": "modsupertool:naturel_chestplate"
+    },
+    "8": {
+      "item": "modsupertool:fil_conducteur"
+    }
+  },
+  "result": {
+    "item": "modsupertool:conducteur_armor_chestplate",
+    "count": 1
+  }
+}

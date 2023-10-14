@@ -1,0 +1,47 @@
+{
+  "_fv": 43,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "staff",
+    "customModelName": "Normal",
+    "name": "Bâton Du Pharaon",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:ItemsDiversSuperTools"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 3,
+    "toolType": 1.0,
+    "damageCount": 2,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "peut vous buff par click droit"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "BatonDuPharaonPlayerFinishesUsingItem"
+    },
+    "isFood": false,
+    "nutritionalValue": 10,
+    "saturation": 1.0,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "bow"
+  }
+}

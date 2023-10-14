@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "modsupertool:epee_parfaite"
+  },
+  "addition": {
+    "item": "modsupertool:lingot_parfait"
+  },
+  "result": {
+    "item": "modsupertool:epee_parfaitee"
+  }
+}

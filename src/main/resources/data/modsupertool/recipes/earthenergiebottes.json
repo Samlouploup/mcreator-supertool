@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:superfer_boots"
+    },
+    "2": {
+      "item": "modsupertool:superfer_boots"
+    },
+    "3": {
+      "item": "modsupertool:superfer_boots"
+    },
+    "4": {
+      "item": "modsupertool:earthenergie"
+    },
+    "5": {
+      "item": "modsupertool:superfer_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:earthernergie_boots",
+    "count": 1
+  }
+}

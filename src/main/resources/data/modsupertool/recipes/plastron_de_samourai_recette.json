@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:plaque_de_samourai"
+    },
+    "2": {
+      "item": "modsupertool:plaque_de_samourai"
+    },
+    "3": {
+      "item": "modsupertool:automate_chestplate"
+    },
+    "4": {
+      "item": "modsupertool:plaque_de_samourai"
+    },
+    "5": {
+      "item": "modsupertool:automate_chestplate"
+    },
+    "6": {
+      "item": "modsupertool:plaque_de_samourai"
+    },
+    "7": {
+      "item": "modsupertool:automate_chestplate"
+    },
+    "8": {
+      "item": "modsupertool:plaque_de_samourai"
+    }
+  },
+  "result": {
+    "item": "modsupertool:samourai_chestplate",
+    "count": 1
+  }
+}

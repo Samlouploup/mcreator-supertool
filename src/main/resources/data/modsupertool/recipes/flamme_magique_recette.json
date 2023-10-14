@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 72000,
+  "ingredient": {
+    "item": "minecraft:nether_star"
+  },
+  "result": "modsupertool:flamme_magique"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:pharaon_boots"
+    },
+    "2": {
+      "item": "modsupertool:pharaon_boots"
+    },
+    "3": {
+      "item": "modsupertool:pharaon_boots"
+    },
+    "4": {
+      "item": "modsupertool:supremeb"
+    },
+    "5": {
+      "item": "modsupertool:pharaon_boots"
+    }
+  },
+  "result": {
+    "item": "modsupertool:supreme_boots",
+    "count": 1
+  }
+}

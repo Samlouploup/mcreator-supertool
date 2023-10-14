@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:pioche_embrase"
+    },
+    "1": {
+      "item": "modsupertool:pioche_embrase"
+    },
+    "2": {
+      "item": "modsupertool:pioche_embrase"
+    },
+    "3": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "4": {
+      "item": "modsupertool:flame_parfaite"
+    },
+    "5": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "6": {
+      "item": "minecraft:music_disc_pigstep"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pioche_infernal",
+    "count": 1
+  }
+}

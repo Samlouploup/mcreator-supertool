@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modsupertool:blocks/supercuivre",
+    "up": "modsupertool:blocks/supercuivre",
+    "north": "modsupertool:blocks/supercuivre",
+    "east": "modsupertool:blocks/supercuivre",
+    "south": "modsupertool:blocks/supercuivre",
+    "west": "modsupertool:blocks/supercuivre",
+    "particle": "modsupertool:blocks/supercuivre"
+  },
+  "render_type": "solid"
+}

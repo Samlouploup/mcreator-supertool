@@ -1,0 +1,91 @@
+{
+  "_fv": 43,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "roi_des_mer_head",
+    "enableBody": true,
+    "textureBody": "roi_des_mer_body",
+    "enableLeggings": true,
+    "textureLeggings": "roi_des_mer_leggings",
+    "enableBoots": true,
+    "textureBoots": "roi_des_mer_boots",
+    "onHelmetTick": {
+      "name": "RoiDesMersHelmetTickEvent"
+    },
+    "onBodyTick": {
+      "name": "RoiDesMersBodyTickEvent"
+    },
+    "onLeggingsTick": {
+      "name": "RoiDesMersLeggingsTickEvent"
+    },
+    "onBootsTick": {
+      "name": "RoiDesMersEvenementDeTickDesBottes"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ArmuresOutilsSuperTools"
+    },
+    "armorTextureFile": "roi_des_mer",
+    "helmetName": "Casque du Roi Des Mers",
+    "bodyName": "Plastron du Roi Des Mers",
+    "leggingsName": "Jambière du Roi Des Mers",
+    "bootsName": "Bottes du Roi Des Mers",
+    "helmetSpecialInfo": [
+      "donne pouvoir du conduit sous l'eau"
+    ],
+    "bodySpecialInfo": [
+      "permet une mue sous l'eau pour gagner des écailles"
+    ],
+    "leggingsSpecialInfo": [
+      "suprime la faim sous l'eau"
+    ],
+    "bootsSpecialInfo": [
+      "permet d'aller vite sous l'eau",
+      "peut être amélioré en version coureur des mers"
+    ],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 0,
+    "damageValueHelmet": 4,
+    "damageValueBody": 4,
+    "damageValueLeggings": 4,
+    "damageValueBoots": 4,
+    "enchantability": 9,
+    "toughness": 0.5,
+    "knockbackResistance": 0.1,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.HEART_OF_THE_SEA"
+      }
+    ]
+  }
+}

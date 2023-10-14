@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:pierre_chestplate"
+    },
+    "1": {
+      "item": "modsupertool:super_fer_b"
+    },
+    "2": {
+      "item": "modsupertool:pierre_chestplate"
+    },
+    "3": {
+      "item": "modsupertool:pierre_chestplate"
+    },
+    "4": {
+      "item": "modsupertool:pierre_chestplate"
+    },
+    "5": {
+      "item": "modsupertool:pierre_chestplate"
+    },
+    "6": {
+      "item": "modsupertool:pierre_chestplate"
+    },
+    "7": {
+      "item": "modsupertool:pierre_chestplate"
+    },
+    "8": {
+      "item": "modsupertool:pierre_chestplate"
+    }
+  },
+  "result": {
+    "item": "modsupertool:superfer_chestplate",
+    "count": 1
+  }
+}

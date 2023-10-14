@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "2": {
+      "item": "modsupertool:super_fer_b"
+    },
+    "4": {
+      "item": "modsupertool:canne_a_peche_en_pierre"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "modsupertool:canne_a_peche_en_pierre"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "modsupertool:canne_a_peche_en_super_fer",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "1": {
+      "item": "modsupertool:super_cuivre"
+    },
+    "2": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "3": {
+      "item": "modsupertool:super_cuivre"
+    },
+    "4": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "5": {
+      "item": "modsupertool:super_cuivre"
+    },
+    "6": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "7": {
+      "item": "modsupertool:super_cuivre"
+    },
+    "8": {
+      "item": "modsupertool:fil_conducteur"
+    }
+  },
+  "result": {
+    "item": "modsupertool:bloc_conducteur",
+    "count": 1
+  }
+}

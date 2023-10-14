@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "1": {
+      "item": "minecraft:lava_bucket"
+    },
+    "2": {
+      "item": "minecraft:netherrack"
+    },
+    "4": {
+      "item": "modsupertool:piochebrulante"
+    },
+    "7": {
+      "item": "modsupertool:pioche_en_pierre"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pioche_ardente",
+    "count": 1
+  }
+}

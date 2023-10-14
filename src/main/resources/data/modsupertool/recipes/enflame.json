@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "1": {
+      "item": "minecraft:lava_bucket"
+    },
+    "2": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "3": {
+      "item": "minecraft:lava_bucket"
+    },
+    "4": {
+      "item": "modsupertool:pioche_ardente"
+    },
+    "5": {
+      "item": "minecraft:lava_bucket"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "modsupertool:pioche_enflame",
+    "count": 1
+  }
+}

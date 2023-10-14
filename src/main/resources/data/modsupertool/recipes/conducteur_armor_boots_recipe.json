@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "modsupertool:naturel_boots"
+    },
+    "2": {
+      "item": "modsupertool:naturel_boots"
+    },
+    "3": {
+      "item": "modsupertool:fil_conducteur"
+    },
+    "4": {
+      "item": "modsupertool:bloc_conducteur"
+    },
+    "5": {
+      "item": "modsupertool:fil_conducteur"
+    }
+  },
+  "result": {
+    "item": "modsupertool:conducteur_armor_boots",
+    "count": 1
+  }
+}

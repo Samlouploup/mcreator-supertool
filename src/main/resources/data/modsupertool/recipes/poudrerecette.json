@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:blaze_powder"
+  },
+  "addition": {
+    "item": "minecraft:magma_cream"
+  },
+  "result": {
+    "item": "modsupertool:super_poudre_de_blaze"
+  }
+}
