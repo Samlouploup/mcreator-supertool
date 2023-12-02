@@ -56,6 +56,7 @@ public class BatonDuPharaonItem extends Item {
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
 		list.add(Component.literal("peut vous buff par click droit"));
+		list.add(Component.literal("loot sur le pharaon maudit"));
 	}
 
 	@Override

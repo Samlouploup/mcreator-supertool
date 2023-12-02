@@ -8,7 +8,7 @@ import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.PickaxeItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.entity.Entity;
+import net.minecraft.world.entity.player.Player;
 import net.minecraft.network.chat.Component;
 
 import net.mcreator.modabusif.procedures.PiocheEnFerToolInHandTickProcedure;
@@ -53,9 +53,8 @@ public class PiocheEnFerItem extends PickaxeItem {
 	}
 
 	@Override
-	public void inventoryTick(ItemStack itemstack, Level world, Entity entity, int slot, boolean selected) {
-		super.inventoryTick(itemstack, world, entity, slot, selected);
-		if (selected)
-			PiocheEnFerToolInHandTickProcedure.execute(itemstack);
+	public void onCraftedBy(ItemStack itemstack, Level world, Player entity) {
+		super.onCraftedBy(itemstack, world, entity);
+		PiocheEnFerToolInHandTickProcedure.execute(itemstack);
 	}
 }

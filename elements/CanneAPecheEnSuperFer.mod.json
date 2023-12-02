@@ -7,7 +7,8 @@
     "customModelName": "Normal",
     "name": "Canne A Peche En Super Fer",
     "specialInfo": [
-      "donne chance 1"
+      "donne chance 1",
+      "enchanté"
     ],
     "creativeTab": {
       "value": "CUSTOM:ArmuresOutilsSuperTools"
@@ -25,6 +26,9 @@
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "CanneAPecheEnSuperFerQuandLobjetEstFabriquefondu"
+    },
     "onItemInUseTick": {
       "name": "CanneAPecheEnPierreLorsqueLoutilEstDansLaMain"
     }

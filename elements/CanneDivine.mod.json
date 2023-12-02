@@ -25,6 +25,12 @@
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "CanneDivineQuandLobjetEstFabriquefondu"
+    },
+    "onItemInInventoryTick": {
+      "name": "CanneparfaiteLorsqueLoutilEstDansLaMain"
+    },
     "onItemInUseTick": {
       "name": "CanneDivineLorsqueLoutilEstDansLaMain"
     }

@@ -6,6 +6,7 @@ import net.minecraftforge.network.PlayMessages;
 import net.minecraftforge.network.NetworkHooks;
 
 import net.minecraft.world.level.Level;
+import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.monster.RangedAttackMob;
 import net.minecraft.world.entity.monster.Monster;
@@ -31,6 +32,7 @@ import net.minecraft.network.protocol.Packet;
 import net.mcreator.modabusif.procedures.GardienDuTempleQuandLentiteMeurtProcedure;
 import net.mcreator.modabusif.procedures.GardienDuTempleQuandLentiteEstBlesseeProcedure;
 import net.mcreator.modabusif.procedures.GardienDuTempleQuandLentiteEnTueUneAutreProcedure;
+import net.mcreator.modabusif.init.ModsupertoolModItems;
 import net.mcreator.modabusif.init.ModsupertoolModEntities;
 
 public class GardienDuTempleEntity extends Monster implements RangedAttackMob {
@@ -81,6 +83,11 @@ public class GardienDuTempleEntity extends Monster implements RangedAttackMob {
 	@Override
 	public boolean removeWhenFarAway(double distanceToClosestPlayer) {
 		return false;
+	}
+
+	protected void dropCustomDeathLoot(DamageSource source, int looting, boolean recentlyHitIn) {
+		super.dropCustomDeathLoot(source, looting, recentlyHitIn);
+		this.spawnAtLocation(new ItemStack(ModsupertoolModItems.COEUR_DE_FEU.get()));
 	}
 
 	@Override

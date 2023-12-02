@@ -9,9 +9,11 @@ import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.network.chat.Component;
 
+import net.mcreator.modabusif.procedures.EpeeDivineQuandUneEntiteVivanteEstFrappeeAvecLoutilProcedure;
 import net.mcreator.modabusif.procedures.EpeeDivineQuandLobjetEstFabriquefonduProcedure;
 import net.mcreator.modabusif.procedures.EpeeDivineLosqueLepeeEstDansLaMainProcedure;
 import net.mcreator.modabusif.init.ModsupertoolModTabs;
@@ -30,7 +32,7 @@ public class EpeeDivineItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 18f;
+				return 15.5f;
 			}
 
 			public int getLevel() {
@@ -45,6 +47,13 @@ public class EpeeDivineItem extends SwordItem {
 				return Ingredient.of();
 			}
 		}, 3, 0f, new Item.Properties().tab(ModsupertoolModTabs.TAB_ARMURES_OUTILS_SUPER_TOOLS));
+	}
+
+	@Override
+	public boolean hurtEnemy(ItemStack itemstack, LivingEntity entity, LivingEntity sourceentity) {
+		boolean retval = super.hurtEnemy(itemstack, entity, sourceentity);
+		EpeeDivineQuandUneEntiteVivanteEstFrappeeAvecLoutilProcedure.execute(entity);
+		return retval;
 	}
 
 	@Override

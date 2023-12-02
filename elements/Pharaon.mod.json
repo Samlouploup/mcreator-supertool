@@ -26,12 +26,12 @@
       "value": "CUSTOM:ArmuresOutilsSuperTools"
     },
     "armorTextureFile": "pharaon",
-    "helmetName": "coife de Pharaon",
+    "helmetName": "coiffe de Pharaon",
     "bodyName": "plastron de Pharaon",
     "leggingsName": "jambière de Pharaon",
     "bootsName": "bottes de Pharaon",
     "helmetSpecialInfo": [
-      "enchanté",
+      "enchantée",
       "donne vision nocturne"
     ],
     "bodySpecialInfo": [

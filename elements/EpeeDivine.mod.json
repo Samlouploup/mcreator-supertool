@@ -17,7 +17,7 @@
     "efficiency": 20.0,
     "attackSpeed": 4.0,
     "enchantability": 25,
-    "damageVsEntity": 20.0,
+    "damageVsEntity": 17.5,
     "usageCount": 0,
     "blocksAffected": [],
     "hasGlow": false,
@@ -27,6 +27,9 @@
     "damageOnCrafting": false,
     "onCrafted": {
       "name": "EpeeDivineQuandLobjetEstFabriquefondu"
+    },
+    "onEntityHitWith": {
+      "name": "EpeeDivineQuandUneEntiteVivanteEstFrappeeAvecLoutil"
     },
     "onItemInUseTick": {
       "name": "EpeeDivineLosqueLepeeEstDansLaMain"

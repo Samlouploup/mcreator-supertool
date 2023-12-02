@@ -25,7 +25,8 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "mangez-moi !"
+      "mangez-moi !",
+      "s'échange chez le prêtre"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

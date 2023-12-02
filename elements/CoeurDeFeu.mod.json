@@ -25,7 +25,8 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "mangeable"
+      "mangeable",
+      "lootable sur le gardien du feu"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

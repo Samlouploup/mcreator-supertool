@@ -43,6 +43,7 @@ public class AmeMondeItem extends Item {
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
 		list.add(Component.literal("mangez-moi !"));
+		list.add(Component.literal("s'\u00E9change chez le pr\u00EAtre"));
 	}
 
 	@Override

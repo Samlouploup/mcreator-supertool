@@ -26,6 +26,8 @@ public class RoiDesMersBodyTickEventProcedure {
 					ItemHandlerHelper.giveItemToPlayer(_player, _setstack);
 				}
 			}
+			if (entity instanceof LivingEntity _entity && !_entity.level.isClientSide())
+				_entity.addEffect(new MobEffectInstance(MobEffects.WATER_BREATHING, 60, 0, false, false));
 		}
 	}
 }

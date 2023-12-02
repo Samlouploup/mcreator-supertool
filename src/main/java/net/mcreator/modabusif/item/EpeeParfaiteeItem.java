@@ -30,7 +30,7 @@ public class EpeeParfaiteeItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 14f;
+				return 13f;
 			}
 
 			public int getLevel() {

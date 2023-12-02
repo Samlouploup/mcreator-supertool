@@ -25,6 +25,9 @@
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "CanneDuPharaonQuandLobjetEstFabriquefondu"
+    },
     "onItemInUseTick": {
       "name": "CanneDuPharaonLorsqueLoutilEstDansLaMain"
     }

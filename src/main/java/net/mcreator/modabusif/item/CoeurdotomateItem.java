@@ -21,5 +21,6 @@ public class CoeurdotomateItem extends Item {
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
 		list.add(Component.literal("active les effets de l'armure automate lorsque dans l'inventaire"));
+		list.add(Component.literal("entourez un bloc conducteur de bloc de super cuivre"));
 	}
 }

@@ -58,6 +58,6 @@ public class EpeeDeLendItem extends SwordItem {
 	@Override
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
-		list.add(Component.literal("Peut lancer des ender perles a vorte place."));
+		list.add(Component.literal("Peut lancer des ender perles a votre place."));
 	}
 }

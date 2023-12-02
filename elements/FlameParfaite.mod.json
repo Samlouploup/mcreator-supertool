@@ -25,7 +25,8 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "brûle lorsque tenu en main"
+      "brûle lorsque tenu en main",
+      "se trouve en structure"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

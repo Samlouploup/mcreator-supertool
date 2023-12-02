@@ -17,7 +17,7 @@ import net.minecraft.world.InteractionResult;
 import net.minecraft.network.chat.Component;
 import net.minecraft.core.BlockPos;
 
-import net.mcreator.modabusif.procedures.PiocheWitherRightclickedOnBlockProcedure;
+import net.mcreator.modabusif.procedures.PiochwitherrightclickProcedure;
 import net.mcreator.modabusif.init.ModsupertoolModTabs;
 
 import java.util.List;
@@ -68,12 +68,13 @@ public class PiocheWitherItem extends Item {
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
 		list.add(Component.literal("clic droit pour casser un bloc"));
+		list.add(Component.literal("s'\u00E9change chez le forgeron d'outils"));
 	}
 
 	@Override
 	public InteractionResult useOn(UseOnContext context) {
 		super.useOn(context);
-		PiocheWitherRightclickedOnBlockProcedure.execute(context.getLevel(), context.getClickedPos().getX(), context.getClickedPos().getY(), context.getClickedPos().getZ(), context.getPlayer());
+		PiochwitherrightclickProcedure.execute(context.getLevel(), context.getClickedPos().getX(), context.getClickedPos().getY(), context.getClickedPos().getZ(), context.getPlayer());
 		return InteractionResult.SUCCESS;
 	}
 }

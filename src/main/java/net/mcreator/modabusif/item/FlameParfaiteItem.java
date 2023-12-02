@@ -29,6 +29,7 @@ public class FlameParfaiteItem extends Item {
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
 		list.add(Component.literal("br\u00FBle lorsque tenu en main"));
+		list.add(Component.literal("se trouve en structure"));
 	}
 
 	@Override

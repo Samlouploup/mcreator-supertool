@@ -19,5 +19,6 @@ public class FlammeMagiqueLeJoueurTermineDutiliserLitemProcedure {
 		}
 		if (entity instanceof Player _player && !_player.level.isClientSide())
 			_player.displayClientMessage(Component.literal(("magie:" + (entity.getCapability(ModsupertoolModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new ModsupertoolModVariables.PlayerVariables())).magie)), false);
+		DebugFlyOnCcProcedure.execute(entity);
 	}
 }

@@ -44,6 +44,7 @@ import net.mcreator.modabusif.item.PierreItem;
 import net.mcreator.modabusif.item.PharaonItem;
 import net.mcreator.modabusif.item.PerlePafaiteItem;
 import net.mcreator.modabusif.item.ParfaitItem;
+import net.mcreator.modabusif.item.PainDeViandeMagiqueItem;
 import net.mcreator.modabusif.item.OrbeSupremeItem;
 import net.mcreator.modabusif.item.OeilDuWitherFouItem;
 import net.mcreator.modabusif.item.NaturelItem;
@@ -250,6 +251,7 @@ public class ModsupertoolModItems {
 	public static final RegistryObject<Item> GARDIEN_DU_TEMPLE_SPAWN_EGG = REGISTRY.register("gardien_du_temple_spawn_egg",
 			() -> new ForgeSpawnEggItem(ModsupertoolModEntities.GARDIEN_DU_TEMPLE, -65536, -16711783, new Item.Properties().tab(ModsupertoolModTabs.TAB_ITEMS_DIVERS_SUPER_TOOLS)));
 	public static final RegistryObject<Item> COEUR_DE_FEU = REGISTRY.register("coeur_de_feu", () -> new CoeurDeFeuItem());
+	public static final RegistryObject<Item> PAIN_DE_VIANDE_MAGIQUE = REGISTRY.register("pain_de_viande_magique", () -> new PainDeViandeMagiqueItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

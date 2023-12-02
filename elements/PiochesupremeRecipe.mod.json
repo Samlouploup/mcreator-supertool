@@ -12,13 +12,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.DIAMOND"
+        "value": "Blocks.DIAMOND_BLOCK"
       },
       {
         "value": "CUSTOM:Supremeb"
       },
       {
-        "value": "Items.DIAMOND"
+        "value": "Blocks.DIAMOND_BLOCK"
       },
       {
         "value": ""

@@ -26,6 +26,8 @@ public class RoiDesMersBootsTickEventProcedure {
 			(itemstack).enchant(Enchantments.DEPTH_STRIDER, 10);
 			if (entity instanceof LivingEntity _entity && !_entity.level.isClientSide())
 				_entity.addEffect(new MobEffectInstance(MobEffects.DOLPHINS_GRACE, 60, 1, false, false));
+			if (entity instanceof LivingEntity _entity && !_entity.level.isClientSide())
+				_entity.addEffect(new MobEffectInstance(MobEffects.WATER_BREATHING, 60, 1, false, false));
 		}
 	}
 }

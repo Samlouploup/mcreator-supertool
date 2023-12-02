@@ -7,13 +7,13 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:diamond"
+      "item": "minecraft:diamond_block"
     },
     "1": {
       "item": "modsupertool:supremeb"
     },
     "2": {
-      "item": "minecraft:diamond"
+      "item": "minecraft:diamond_block"
     },
     "4": {
       "item": "modsupertool:pioche_du_pharaon"

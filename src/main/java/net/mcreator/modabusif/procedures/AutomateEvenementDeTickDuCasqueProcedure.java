@@ -15,7 +15,7 @@ public class AutomateEvenementDeTickDuCasqueProcedure {
 			return;
 		if (entity instanceof Player _playerHasItem ? _playerHasItem.getInventory().contains(new ItemStack(ModsupertoolModItems.COEURDOTOMATE.get())) : false) {
 			if (entity instanceof LivingEntity _entity && !_entity.level.isClientSide())
-				_entity.addEffect(new MobEffectInstance(MobEffects.NIGHT_VISION, 60, 1, false, false));
+				_entity.addEffect(new MobEffectInstance(MobEffects.NIGHT_VISION, 600, 1, false, false));
 		}
 	}
 }

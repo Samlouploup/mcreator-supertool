@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="[43,)"
-license="Academic Free License v3.0"
+license="Apache License version 2.0"
 
 [[mods]]
 modId="modsupertool"
-version="2.4.1"
+version="2.4.5"
 displayName="Modsuper tool"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="Samuel Feller, MCreator"
+displayURL="https://github.com/Samlouploup/mcreator-supertool"
+authors="Samuel Feller"
 
 [[dependencies.modsupertool]]
     modId="minecraft"

@@ -16,6 +16,6 @@ public class EpeeDivineQuandLobjetEstFabriquefonduProcedure {
 				EnchantmentHelper.setEnchantments(_enchantments, itemstack);
 			}
 		}
-		(itemstack).enchant(Enchantments.MOB_LOOTING, 20);
+		(itemstack).enchant(Enchantments.MOB_LOOTING, 15);
 	}
 }

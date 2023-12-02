@@ -62,7 +62,7 @@ public class PiocheDivineItem extends PickaxeItem {
 	public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 		super.appendHoverText(itemstack, world, list, flag);
 		list.add(Component.literal("breaking power:5"));
-		list.add(Component.literal("la meilleur pioche de tout les temps"));
+		list.add(Component.literal("la pioche avec laquelle on a trouv\u00E9 l'Arkenstone"));
 	}
 
 	@Override

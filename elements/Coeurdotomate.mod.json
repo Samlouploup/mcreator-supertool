@@ -25,7 +25,8 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "active les effets de l'armure automate lorsque dans l'inventaire"
+      "active les effets de l'armure automate lorsque dans l'inventaire",
+      "entourez un bloc conducteur de bloc de super cuivre"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

@@ -79,7 +79,7 @@ public abstract class PharaonItem extends ArmorItem {
 		@Override
 		public void appendHoverText(ItemStack itemstack, Level world, List<Component> list, TooltipFlag flag) {
 			super.appendHoverText(itemstack, world, list, flag);
-			list.add(Component.literal("enchant\u00E9"));
+			list.add(Component.literal("enchant\u00E9e"));
 			list.add(Component.literal("donne vision nocturne"));
 		}
 

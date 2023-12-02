@@ -19,10 +19,8 @@ public class DivinchesplatetickeventProcedure {
 	public static void execute(Entity entity, ItemStack itemstack) {
 		if (entity == null)
 			return;
-		if ((entity instanceof LivingEntity _livEnt ? _livEnt.hasEffect(MobEffects.NIGHT_VISION) : false) == false) {
-			if (entity instanceof LivingEntity _entity && !_entity.level.isClientSide())
-				_entity.addEffect(new MobEffectInstance(MobEffects.NIGHT_VISION, 600, 3, false, false));
-		}
+		if (entity instanceof LivingEntity _entity && !_entity.level.isClientSide())
+			_entity.addEffect(new MobEffectInstance(MobEffects.NIGHT_VISION, 600, 3, false, false));
 		if (entity instanceof LivingEntity _entity && !_entity.level.isClientSide())
 			_entity.addEffect(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 60, 2, false, false));
 		if (entity instanceof LivingEntity _entity && !_entity.level.isClientSide())
@@ -67,10 +65,6 @@ public class DivinchesplatetickeventProcedure {
 		(itemstack).enchant(Enchantments.ALL_DAMAGE_PROTECTION, 20);
 		(itemstack).enchant(Enchantments.FIRE_PROTECTION, 20);
 		(itemstack).enchant(Enchantments.PROJECTILE_PROTECTION, 20);
-		if (entity instanceof Player _player) {
-			_player.getAbilities().mayfly = true;
-			_player.onUpdateAbilities();
-		}
 		if (ModsupertoolModItems.DIVIN_BOOTS.get() == (entity instanceof LivingEntity _entGetArmor ? _entGetArmor.getItemBySlot(EquipmentSlot.FEET) : ItemStack.EMPTY).getItem()) {
 			if (ModsupertoolModItems.DIVIN_LEGGINGS.get() == (entity instanceof LivingEntity _entGetArmor ? _entGetArmor.getItemBySlot(EquipmentSlot.LEGS) : ItemStack.EMPTY).getItem()) {
 				if (ModsupertoolModItems.DIVIN_HELMET.get() == (entity instanceof LivingEntity _entGetArmor ? _entGetArmor.getItemBySlot(EquipmentSlot.HEAD) : ItemStack.EMPTY).getItem()) {

@@ -25,7 +25,8 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "peut vous buff par click droit"
+      "peut vous buff par click droit",
+      "loot sur le pharaon maudit"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

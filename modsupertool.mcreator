@@ -3237,41 +3237,6 @@
       }
     },
     {
-      "name": "PiocheWitherRightclickedOnBlock",
-      "type": "procedure",
-      "sortid": 180,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "pioche_wither_rightclicked_on_block",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/modabusif/procedures/PiocheWitherRightclickedOnBlockProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
       "name": "OeilDuWitherFou",
       "type": "item",
       "sortid": 181,
@@ -4219,6 +4184,10 @@
           "src/main/java/net/mcreator/modabusif/procedures/SousprocedureProcedure.java"
         ],
         "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
           {
             "name": "x",
             "type": "number"
@@ -7320,8 +7289,319 @@
         ],
         "dependencies": [
           {
+            "name": "dimension",
+            "type": "dimensiontype"
+          },
+          {
             "name": "entity",
             "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EpeeDivineQuandUneEntiteVivanteEstFrappeeAvecLoutil",
+      "type": "procedure",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "epee_divine_quand_une_entite_vivante_est_frappee_avec_loutil",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/EpeeDivineQuandUneEntiteVivanteEstFrappeeAvecLoutilProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PiocheDivineBreakBloc",
+      "type": "procedure",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pioche_divine_break_bloc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/PiocheDivineBreakBlocProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CanneAPecheEnSuperFerQuandLobjetEstFabriquefondu",
+      "type": "procedure",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canne_a_peche_en_super_fer_quand_lobjet_est_fabriquefondu",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/CanneAPecheEnSuperFerQuandLobjetEstFabriquefonduProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CanneDuPharaonQuandLobjetEstFabriquefondu",
+      "type": "procedure",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canne_du_pharaon_quand_lobjet_est_fabriquefondu",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/CanneDuPharaonQuandLobjetEstFabriquefonduProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CanneparfaiteQuandLobjetEstFabriquefondu",
+      "type": "procedure",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canneparfaite_quand_lobjet_est_fabriquefondu",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/CanneparfaiteQuandLobjetEstFabriquefonduProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CanneDivineQuandLobjetEstFabriquefondu",
+      "type": "procedure",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "canne_divine_quand_lobjet_est_fabriquefondu",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/CanneDivineQuandLobjetEstFabriquefonduProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PainDeViandeMagique",
+      "type": "item",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pain_de_viande_magique",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/item/PainDeViandeMagiqueItem.java",
+          "src/main/resources/assets/modsupertool/models/item/pain_de_viande_magique.json"
+        ]
+      }
+    },
+    {
+      "name": "PainDeViandeMagiqueLorsqueLeJoueurTermineDutiliserLitem",
+      "type": "procedure",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pain_de_viande_magique_lorsque_le_joueur_termine_dutiliser_litem",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/PainDeViandeMagiqueLorsqueLeJoueurTermineDutiliserLitemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PainDeViandeMagiqueRecette",
+      "type": "recipe",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pain_de_viande_magique_recette",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/modsupertool/recipes/pain_de_viande_magique_recette.json"
+        ]
+      }
+    },
+    {
+      "name": "DebugFlyOnCc",
+      "type": "procedure",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "debug_fly_on_cc",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/DebugFlyOnCcProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DebugFlyOnCommand",
+      "type": "procedure",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "debug_fly_on_command",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/DebugFlyOnCommandProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DebugFlyC",
+      "type": "command",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "debug_fly_c",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/command/DebugFlyCCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "ClearMagiqueProcedure",
+      "type": "procedure",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clear_magique_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/ClearMagiqueProcedureProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClearMagic",
+      "type": "command",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clear_magic",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/command/ClearMagicCommand.java"
+        ]
+      }
+    },
+    {
+      "name": "PiocheDivineRecette2",
+      "type": "recipe",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pioche_divine_recette_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/modsupertool/recipes/pioche_divine_recette_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Piochwitherrightclick",
+      "type": "procedure",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piochwitherrightclick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/modabusif/procedures/PiochwitherrightclickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
           }
         ]
       }
@@ -7399,6 +7679,7 @@
       "item.modsupertool.epee_en_terre": "Epee En Terre",
       "gui.modsupertool.magie_de_compactage.label_precedente_suppriment_ainsi_tous": "précédente, supprimant ainsi tous ses pouvoirs.",
       "gui.modsupertool.entre_items.button_empty1": "\u003c-",
+      "item.modsupertool.pain_de_viande_magique": "Pain De Viande Magique",
       "item.mod_super_tool.pierre_helmet": "casque en Pierre",
       "item.modsuperarmur.divin_helmet": "casque Divin",
       "gui.modsupertool.armure_de_lend.label_cette_enderman_lui_dit_vient": "Cette enderman lui dit : «vient",
@@ -7458,7 +7739,7 @@
       "gui.modsupertool.armure_du_maitre_du_nether_gui.label_les_berserks_fabriquerent_larmu": "Les Berserks fabriquèrent l’armure et l’infusèrent",
       "item.mod_super_tool.super_poudre_de_blaze": "Super Poudre De Blaze",
       "gui.mod_super_tool.earthenergie_gui.label_gemme_de_lenergie": "gemme de l\u0027énergie.",
-      "item.modsupertool.pharaon_helmet": "coife de Pharaon",
+      "item.modsupertool.pharaon_helmet": "coiffe de Pharaon",
       "item.mod_super_tool.samourai_helmet": "Casque de Samourai",
       "entity.modsuperarmur.pharaon_maudit": "Pharaon Maudit",
       "gui.modsupertool.entre_codex.button_armures": "Armures/outils",
@@ -8138,6 +8419,7 @@
       "item.modsupertool.epee_en_terre": "Epee En Terre",
       "gui.modsupertool.magie_de_compactage.label_precedente_suppriment_ainsi_tous": "précédente, supprimant ainsi tous ses pouvoirs.",
       "gui.modsupertool.entre_items.button_empty1": "\u003c-",
+      "item.modsupertool.pain_de_viande_magique": "Pain De Viande Magique",
       "item.mod_super_tool.pierre_helmet": "casque en Pierre",
       "item.modsuperarmur.divin_helmet": "casque Divin",
       "gui.modsupertool.armure_de_lend.label_cette_enderman_lui_dit_vient": "Cette enderman lui dit : «vient",
@@ -8829,7 +9111,7 @@
   "workspaceSettings": {
     "modid": "modsupertool",
     "modName": "Modsuper tool",
-    "version": "2.4.1",
+    "version": "2.4.5",
     "author": "Samuel Feller",
     "websiteURL": "https://github.com/Samlouploup/mcreator-supertool",
     "license": "Apache License version 2.0",

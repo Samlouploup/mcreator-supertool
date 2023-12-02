@@ -82,7 +82,7 @@
     "immuneToWither": false,
     "immuneToDragonBreath": false,
     "mobDrop": {
-      "value": ""
+      "value": "CUSTOM:CoeurDeFeu"
     },
     "livingSound": {
       "value": ""
